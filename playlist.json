@@ -1,0 +1,800 @@
+[
+  {
+    "name": "24 TV",
+    "slug": "24tv",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131646/ei/HnpyabK2EN_o6dsPiMjTyQY/ip/62.210.208.90/id/6B-nPOdP720.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rFTwknmHVvMkQ7yTilfF1RXghs8u37UwpCGttWuDEKAqvT7A_U8r1iiAJcjSpfVsXSLXSbIbbv/spc/q5xjPFIANgSsCXNIO71NRyD0bXDbe4nZX94uit5K6OEm5CMnQCgpZkKcl-JmCb6104b8Gg/vprv/1/go/1/ns/sohlQqBZ2J3UWf4OtTDQnycS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/s701-iF8-F_K5z_fZ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgFuAQ2WEXrG_XA4-VFXKeFu2IeG9zr4hPRjDPgLIUxzgCICHWFcaOuJe2eLxBpj5_VsRBgGUkT0PjlMlljrB5Emrx/file/index.m3u8"
+  },
+  {
+    "name": "A Haber",
+    "slug": "ahaber",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131651/ei/I3pyaZmxE93lxN8Psuj5sAk/ip/62.210.208.90/id/nmY9i63t6qo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666465/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oSyp2AxbftmpGg_uZipjHeKhT4soyjeijP6du0M1OBAEx5M2Lkj1GoXfb-3GoirbxOKTZuJNRI/spc/q5xjPKvGEvYneY8fEc9_aei7YL1B0qqD6e2Cbu_Z3Oq7JEO52WXdMvuy_uaI5eaqGPGxlQ/vprv/1/go/1/ns/tMGTbIzCS9kpnjxDUrrQ8GES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/ID69eeQlGTrAi5sRq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAOQ3le_UjrW7iBfW3jrKMWseGNFQi4MBk1FfD-GLDxd6AiAdlny3TPHHfCUfVbLc3QC0xGr5_R3Flaoas54g_m_1iA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "A Para",
+    "slug": "apara",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131656/ei/KHpyabWnFKmJvdIPs9SPoAs/ip/62.210.208.90/id/6-Q8v_e-M2g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rC7ywP3WgGJVXCcE0Ezx6WrO33fKFSAfWFI0LWzM5nSYVPbhfQWD6WBlO4QLFDVWNzPYh7RWqM/spc/q5xjPKF8nt_ojOCbYWQwKmC8QC_ZFwX79L8PEVvSEwggXqyDlNj4dt-BVKJ7BGuNytVhqg/vprv/1/go/1/ns/LQhgntBS2I1ilcj-wQI97cgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/9NChOJZX1_OpURMph/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAP8TqGjyXBouyengJazAH8TbSZlXS9SBUOSw1QoiW0-JAiEAmGCSRrD-BrN8EhhCJG6zHD6GwbfR_r79x0tpuM0iD5c%3D/file/index.m3u8"
+  },
+  {
+    "name": "A Spor",
+    "slug": "aspor",
+    "logo": "",
+    "group": "spor",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131660/ei/LHpyabbdMcL2xN8PioD1sQg/ip/62.210.208.90/id/mDTnFqGLLs4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oX2TW0nxt0ZrqgidZxm78hSjUJW2Ju_N70Vj_nwo0kOw931VctPX1ZX3wnkgSectvnyXDotYWl/spc/q5xjPP2blJJx48M5gOeoIpMfV6YmrALsTVTl1gU3sSLrgfj06fn-hGQzcc1WJLdyrG3Zog/vprv/1/go/1/ns/zqAW6DeTvFxXO07hjM_fo7QS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/GsCfOQsBLG58kwPIb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgUYsH5DrfHkKiSSWcn04gFJ247rlFA045ov9CNp2CzscCIQDlbCRCskbRUnlY-jMCiruEbN8xMvfZfScU6GEWoO-Kdg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "ABB TV",
+    "slug": "abb-tv",
+    "logo": "",
+    "group": "yerel",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769128877/ei/TW9yaYzAG-2Kr9gPh-2rsQY/ip/172.70.134.93/id/VCDy8ewqwK8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rr-f556IUj188rnc1WxNG6Vvhjt5U3qqk15M87AL4heXkccgviYFAs2bHDCst6ne3Uie8ZHraC/spc/q5xjPBV_N7EzjLRP15G4XlAH6Tqv__8rsJLv2_FPvksUx5hdMJBHk4QKRSksYvCsoLVGCg/vprv/1/go/1/ns/p3CkXKIDt9UchnAP39aKlugS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/TJwT-kwLCsO5SF5cl/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgQeeOUpofg-DeeKIFdBOy_EbHnoo6OdPmY1mUE0jUViQCIQCDwh3nh9KAQ4lHLTLmytunl1XYTnD77b1ZH00h3A8kqQ%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Adanalı",
+    "slug": "adanali",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131666/ei/MnpyaZHHMOO9mLAP0eC5sAY/ip/62.210.208.90/id/sF1AgroEr60.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AW-iu_qJQ8Dzg2_lor2jLoJ8ed_GDr7uZiZUv2aTxf7UwstYlLsVLyS3KAomR92zijhZB1b9XygytWNl/spc/q5xjPBhyb2P982-qJ6ZuTyl8adC6YKxzBdZPjCa2iC8542D2VDOG1L12iqJp4Kjl4UXzkA/vprv/1/go/1/ns/RomvBUHjJkiQI70QbyKzv0oS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/nuTAOeiMihGfQOM8Z/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgcjlbDI5cpC75EGupUDUNqjrZ40i9dPxlFhSEoErkv20CIGzMOvrDRCHTgLYnARcdhQ9tEq0a6p247QmvEEXFyK26/file/index.m3u8"
+  },
+  {
+    "name": "Akıllı Arabalar",
+    "slug": "akilli-arabalar",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769128885/ei/VW9yabCkLtSHkucPrvLOwAU/ip/172.70.38.124/id/HXxgt3HMLgw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oadDPUmExkCe8fR7deUmhGJbe5_Om5xzTMDoD1c2NL81qzvldi_h-SI5338glYzSlZmAEWpMbd/spc/q5xjPBJdKx1WmKvKX8RqSsD1IvGF7aNJhAbhGGmrCv6JU5WY7bJVHlzxkaZ3_G0Ch6el5g/vprv/1/go/1/ns/P0x6hpAxTa6bpIhyAg_keKoS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/ADUZemVEg-g6EQEiy/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAOidMhUER3DVU537RpK2FtFP2c8MwwySiOwA4IJGUC4pAiAc_yYz-p-mZQ9GFIjB5LbgTd8fsMz2ePz-JZmsk-XdbA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Akit TV",
+    "slug": "akit-tv",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131672/ei/OHpyaanfKODWxN8PucDlqQU/ip/62.210.208.90/id/7jaGAvYcoqk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oI34zw89klMZsuR8rqtGCRUCYJcsG5nVVxRilgGzvjRWSWBZTFp--tgMaMeQ73mwOYCsPdi8wA/spc/q5xjPEV5UhNo3QqITtVCDChCTiRYEpJ69NO_BSc8TKvgQaOM50Fk6epxjhf08TjGa1e1fQ/vprv/1/go/1/ns/8FpOydObQTv5NWreSKlSexUS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/-uj1e6iWvIzlfx8Kp/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAP7K5Hv1yPnTOTjtXz7biA4HU5oIC5XrWkpgtlFxJZ8WAiEA7YToFgWWg4VV_dvfZ3J5ev0KChVPyqdEr3FSQjl6lbQ%3D/file/index.m3u8"
+  },
+  {
+    "name": "Alemin Kralı",
+    "slug": "alemin-krali",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131679/ei/P3pyaa7SHcOw8uMPr8uxgAY/ip/62.210.208.90/id/avDRwKKjeSI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AW-iu_r4zd_uGJZ5JBoFN_k1FdJLSLJuvEe_bayRvuzLFVdILmeZ33_Brwcf8AQCQ4k51Ia9V1QR5szr/spc/q5xjPLngFhQUfN7HoR_eGDan7plzZ3OXUGlFOJrF1haNK7pqwgTm-ZE_b_-Wy4O6JcWS7Q/vprv/1/go/1/ns/M4IH6KMe3tt2v8omD0kcJqQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/asPaOiCxz6z9H3M8D/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhALBO7K3VMKUG_4xDdr1T4OAK6C0fUXMUr0HOkQUoeD7lAiAgrYzcXOKmiO_bIOPxpZ4fFZA46Z7qEhOooD5AO41G9A%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Arıza",
+    "slug": "ariza",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131683/ei/Q3pyabamFL6NvdIPzdmEQA/ip/62.210.208.90/id/SbnPgBmLRhQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pFb5fTBaXzlL8xh5oNJWyW0B_Gl9ymOIboTQ8EgivS6m3raRr9FSOatkTTCagky2LLsVse2jCO/spc/q5xjPMHPyVW4Y4O0tnj4sv2FEMXkkyQpxZTSWcK2uJZihtdRJrcBAknWP0T3WRjuB4JxVw/vprv/1/go/1/ns/T2x1Hdi6__N7oxC9JlHxD-gS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/kg-p-3774_jfkP_Lk/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgOTvCeUGip4xowRDrWRZ_M9sPe5fPeBB25uOeTHS19yMCIBhVhbF4r8N5b-dbz_dy7kwEupRZ7ogLHT0iw27hGWLU/file/index.m3u8"
+  },
+  {
+    "name": "Arzu Film",
+    "slug": "arzu-film",
+    "logo": "",
+    "group": "film",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131689/ei/SXpyafmYL7-Rv_IPofH0qQ8/ip/62.210.208.90/id/Z5ZfND5rfJM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oQnRM8rnHBzZw9JK61T1LRa6EbkYq8N0sHhby4gOYDuyho89QigK5ImuchJP47yJH4Nr-1-d97/spc/q5xjPBveKrf3jOcqjFSkrPUPw3tFwcEaNaVfkEa74TszyZGxFRVLT8Yw8je6_Oe2j4D04g/vprv/1/go/1/ns/c0v47dcBkh0klYb9l1O5vJkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/iLXkO8uVpC9XviSwU/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgZAQt_u83r48xGymehMYma1sCVvBhvvbP8m8Ccr_XWcUCIQCFBY1QZDaD0APuL2pkBJcCf6d3e1aGX0N8jcfbJ2vyFg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Aşk-ı Memnu",
+    "slug": "aski-memnu",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131700/ei/VHpyaa3oDJKG0u8PyM_X0AE/ip/62.210.208.90/id/JpP13Wp1ke0.143/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oJG1G1OGGopnRxyNwYfnW53N4avRPgUYgK8M3i16nmwHvyCt-H-tVKTkA_yKm2JWzDiPKpIXNB/spc/q5xjPIfHlNA6-a0Ny7RWSMP-GO5EspUvO2nFefv8bY-5poejbKhbR6ZyDkE0lZwORmeftA/vprv/1/go/1/ns/lbOVf4B4t0kkKWBaSJbaYAkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/it7_uqU5L8RnyLI6G/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgXTAbmcDQh9X-DXX0CuNaabOQ2L1NykAARWc13CGAkcECIQCBLWxLymG8mvhppBhWXVQNX6mUJkF5opSp4t1hEEsWqg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Avrupa Yakası",
+    "slug": "avrupa-yakasi",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131706/ei/WnpyafmhBu_lmLAP9-qS0QI/ip/62.210.208.90/id/NGsjOrzwjZk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/ss/1/ssa/1/bui/AW-iu_qKzHRjVkGVQb4OmgdsLc0_Yy9H6OXZq2F6t2RT0tCBlkbCkgKsaQDgETah113bWFL2TjnU-ixz/spc/q5xjPPhVOCa_klQj8fRgz9sYlG68Fs6kSCmzTBCmlQDxwxNHnQIE2q2yaYS-6eEaXeI1SQ/vprv/1/go/1/ns/4p0CI4IFl093CY5FGoGzK6IS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/fSAA3saXVqA_Ci7Z/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgXXEISD62fEfl8MTehFu0ZstiJuNY1IuHyKkANEmxr1UCIQCoiiQbBykA7RgT_H0VfUQ_sIMFQB1lGewShOh3XZ9QHA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Baykuş HopHop",
+    "slug": "baykus-hophop",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769128945/ei/kW9yacCQHdeLr9gPnrP3uAg/ip/172.71.194.18/id/RU5zpByx94U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qOpmCAs_YBDySYgdt4V4HEqF1Dh6XL699TpAra0xwdU5cxkSBw77mkIN6wmdH7m7Jg1x9_Dd4o/spc/q5xjPMvUTQbfl1rnjiSq7Yuroo1JIMlS9eIECfxa3ieT01y7Y_XuIcrLobrzdl5QLJ_eJg/vprv/1/go/1/ns/MGtINCGXAOtYz4t8yIFoUPMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/US5vOM6qjmkROBC_7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgSnjwLWFzklC7HXuvfgiMkh9kEilwDXNcOIh1D_kBZxcCIQDAgsiR4LtOVyavpQ5kOzPnjzTnh3iolNp4lRjp92S7-A%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Bebek Şarkıları",
+    "slug": "bebek-sarkilari",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769128951/ei/l29yaaORGurBkucP76axmQY/ip/104.23.213.148/id/lu0PlG65jhA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_r7YSAOrpX2_vw9xeS6D2JYTlGjoTAntcmmqo26kms5dIMuHxzpc05C1O0HYmrmOgeFZL4dOkQT/spc/q5xjPAoAHv2vIYSe1G9iEeWr3eVa4iiE71GQ2hneoYA3Vo9febq-tzfKMQEJWqpwVgaABw/vprv/1/go/1/ns/IloozwrMIavqIy4g0WwC2kgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/T0WJe-7s-8aYXeLj0/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgUejD7FubKEOI6u-1NJXhpQfEh__VbxN4oGYJeXPtyOwCIQCczo8Ms6SdIXJqYzIthFL86Kx9-Tzy78gbCvDV8Tacvg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Behzat Ç.",
+    "slug": "behzatc",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131720/ei/aHpyaaiyBrOy8uMP_JaGsQY/ip/62.210.208.90/id/t2UnfQ0ieHM.65/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_of4cNaaI6ALMm_THRniJgzawSiA7AyfTeq492LuIbJ8cLOWq_kQH_Z_V_9y4ap5ee5iDcL4aMy/spc/q5xjPM81tpY_TJ_Kv0st6g8rzmGcLSeHcasr4g3V_KPJpao9UiO_6vaohtFOaQDLrQv0QA/vprv/1/go/1/ns/JzA5ETY01kpjQp2HcxeLVbsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/6F6AOaeOl3OC-Hr0x/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgHQy6LG-zYJGPGSlX_iwq4k-N1Oo0Edy2OszbNiCEHJECIQCXXrC6G5f09tIOIylba6VMSgNGqwJl42h7LYJYmOyEQg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "beIN Sports Haber",
+    "slug": "bein-sports-haber",
+    "logo": "",
+    "group": "spor",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131723/ei/a3pyab7DN5-_mLAP79GywAw/ip/62.210.208.90/id/9xVXWLwT0vA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_ozw9_L_UWPBSnxa-9h476B_S72jZP2DsmcyI5u-Oub0e4vjct4iOJA-lDNqvHONyfuZK4UHL7T/spc/q5xjPEMzCy0Xwul3umaxrWIFloWIcJ2MW0JArCEIn1PeVZW7XmoeywEuhGIfpwx-CisWnw/vprv/1/go/1/ns/5K8mJwcPch3fm0-wvyWW0pkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/0Z6Ou9Sti5KpkMP60/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgZtvw7U-hV5GHMfCEOmpvyO8vxe4fCXVZ8R-gXyZ56FYCIAUKLzekUvWusgY2fVLTHGLA36a9uo7PDBXiy8lwTw84/file/index.m3u8"
+  },
+  {
+    "name": "Bengütürk",
+    "slug": "benguturk",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131727/ei/b3pyafH4KeSp8uMPmui5-Ak/ip/62.210.208.90/id/fji8YN-EKFM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/maudio/1/bui/AW-iu_qWLGjNK3P9MopsimD6QHUXVR5yASy43h0txoIaA5LQuaXiwNYPXtgA6eQYgKQtQbgrS6b0dT7b/spc/q5xjPE2o9_bL2_dBcUwhc-rx9acNJ8SDpFNvOZTQbIGBcyRw-pKEskLP4bcBusN-lSEcqg/vprv/1/go/1/ns/bpILatmdyf1WiwMzuvGFMhMS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/2GPOOx4CFwQT8Ngdy/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhALEtq7QzDGLAxnq1tDnRGGsYwZctdgGB5ZA1V0HKHJHHAiEAhJNZkunX7thMMqyuVKrFVl8-BF-1Noqr4eh5paOj27c%3D/file/index.m3u8"
+  },
+  {
+    "name": "Bir Gece Masalı",
+    "slug": "bir-gece-masali",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131735/ei/d3pyaaKpKZip8uMPhsH4kAw/ip/62.210.208.90/id/b5lUIsJZjMk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AW-iu_op1RJOlQtHlvbYjqs17iweytzHTmfaovz77KJYoGfCRTkU7GGQI3csyJ4a0QLpF3P15V_755Wk/spc/q5xjPDtW5TdSHTEpASiY9jjA2QowGGB8tXHFPatSvRFHMx8dLV7aGwiyujG-0LJvYyi0iA/vprv/1/go/1/ns/1dvDiJy8HOng5xRWAs67NZMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/xaZ7-tM3P35UYkswA/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAOPm4mRMKTjiimBoeSd_QScPVrujKtoVdHXwBz507IfvAiBeA-m13LdXwjsAEFJswdpaNSSvg30bZY5X0hkzGgDgLQ%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Bir Zamanlar Çukurova",
+    "slug": "bir-zamanlar-cukurova",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131743/ei/f3pyacJE-Ja90g--_5qxCw/ip/62.210.208.90/id/yq2QNxzcUUo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AW-iu_r3pF5nNuQ93LFJzKH59wja3jU1wEtouxAkzaXzwKXMhbWFSngESi77BUQqzBdy25Pj2kW-SQgb/spc/q5xjPAcBxEgEn2Mo6c55-a-ylu88kt8vaw9zcdFjUPjFt7BDh21RF1qzxnxsVvF3Ho6jrA/vprv/1/go/1/ns/x8KCk5CVGjin8wInxViMzlsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/RLIe-BVcACiW_Penx/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAMQ65PHVey4G2d-EUFnwM18msqq-0phi_h6Mp4lpKDzSAiEA24Pr7g_KU0xreizu-fLjnp-UdfODxfSzyGzBjgZkvc8%3D/file/index.m3u8"
+  },
+  {
+    "name": "Bizim Ev TV",
+    "slug": "bizimevtv",
+    "logo": "",
+    "group": "diger",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131746/ei/gnpyaa3gKZL0v_IPhI3B-Qk/ip/62.210.208.90/id/YTDXMdz0dGI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_paVQED2yoY0nqYGj90Uug8OkJrj6gHf_HfDhvXQGbl9jjLDByEiUCl8MgBovK4Wnfc-jzbZErQ/spc/q5xjPP1_2V_Fqt7l6D3QE2kqaMvHnf-rA9Z8KDmma1-5-UOZcSBGaETCMSy5MyRvynieKw/vprv/1/go/1/ns/DmWcLxkAQIyj5AGPCtpNCyES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/wvHzOp9wAxhzxSug1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAKgwVgjTH9oyB1LBiFZlzveNwNZvt-uG9Hjj8_p3ICNMAiBRavuZGtHNxlTYRQWNX5Jm2bpRH-f3U6b_BevePPs0SA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Bizimkiler",
+    "slug": "bizimkiler",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131750/ei/hnpyafjjEvGw0u8Pnq_T6Qw/ip/62.210.208.90/id/jvC6-s5exnI.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rt5uZMSSS96Mb6dy5bqw_bWAGpbdMqHK07F6ZwBzUqP8TDGJcKwljIgqev7NAnkZ0NwdGmCLyN/spc/q5xjPBGrOnh4XF1jUSKxS4sBqj7X8M1Gi5DdggG-BHCciKW7PWHYZxK6Ww7UGYKSgpEmjg/vprv/1/go/1/ns/IIPnMxevRMWMkVHcVYWBTukS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/5sA--uegzSERsnDt9/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgMpAxvKdXoQ2iqQ0c4h1zasO6a1hB5M55YfsRaJrZQAgCIQC71lYxiw9rOAHfOR3tCCi1T6txrD8NDgt6EFcCRXGvKg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Bloomberg HT",
+    "slug": "bloomberght",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131753/ei/iXpyafaMOv6IvdIP5KmWgQU/ip/62.210.208.90/id/hHSmBJk6w0c.1056/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pbRv5EDpLEpJhHX1ARCXuLlvKzxN8vBZ5KRHzffSzAAILGB_oun7laaqlTy0oaEIOBa1etdC44/spc/q5xjPKLlkyQMx-seuAP8K9fLikK_dzxLsA5GBo-1Vpug-uQ0N4Zn_C9NEeiJpcT34cWl2Q/vprv/1/go/1/ns/MbD2-_KWixdKiHOKJ4X7tSQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/bzqUuUb7KpyBya-Ry/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhANi_e7VUHJOzVTrQHs0ntVq0RtLcs7s-D3MvrMGE8B-OAiBLbXVa6QWL3aeRrI4efdK6WhSFYQbyt1MJYVR1XOX-kA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Bob The Train",
+    "slug": "bob-the-train",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131757/ei/jXpyaeuXNPmp8uMP25iWwQI/ip/62.210.208.90/id/-FQy8CLBsHU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rM6_Gyw5WM5IdRfRKQNwmaAgVqlbAXA0SeNujNVYAsxqQWoyD98l98GomlD4lfAVClOK5mRzpU/spc/q5xjPIhdCSvEG60bYAm8UFNM254WW2rzyHwHi8oKv4_JMhFsJWQhwgP-9gGpem3-uctHtg/vprv/1/go/1/ns/VYxQg-AvMqHE4yleQsPUxJkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/Y1AJu4m_E3J2HgCxS/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgd-y3GGbt-f_gOFMpH64DQs9lfXL5a5bS5HitiuCa6HACIFykb_n_TSOEcX73abTNU21h-oCyRs5qNplByx8M4iov/file/index.m3u8"
+  },
+  {
+    "name": "Business Channel Türk",
+    "slug": "business-channel-turk",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131761/ei/kXpyaav2OcC4mLAPx4KO-AI/ip/62.210.208.90/id/bq2crh7aGeA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_o4w1tjUuB1vdePLvKbz5S2X0-mZsXTrTVazLW6eOx0qk_luoqGmaoXjjcdC59pzxikpaq0Atqs/spc/q5xjPA9DWtW_uVVL7ncDH-T3Fb9of5-uAdpX7FwWCGF_Jo3QXUP9nEyhWIolPhP4p1lpsQ/vprv/1/go/1/ns/ObwDAakRnToG6sK_qDYOoKUS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/CmbCOAtj-oY_3tqJ-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAIZf2ue7dCcXNqntxMtDzfyQ-eNxLv3vsw_FKwxsCTNuAiEA0FPFE_fLhlVd4A7xa1hnlkUkF1Udd4TTv9It-swdqqI%3D/file/index.m3u8"
+  },
+  {
+    "name": "Cennet Mahallesi",
+    "slug": "cennet-mahallesi",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131766/ei/lnpyaZTFIPu_mLAP89ScCA/ip/62.210.208.90/id/lf1NxAexRAE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_q520XKILi_ogHmB-vNHeFbmaQ6P7suzaruHOLGMzTJkivYYZeByR5iZdsosHWZuej03L4n7NCl/spc/q5xjPCca2olTZNFvRjhFlOVRdSAPRqhRayy6yt5vbS_ShV2RVO4Gf7EmtrrBb-grkyA53A/vprv/1/go/1/ns/ihFtp9sXK8-yoM3O324SLysS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/TNTrekvRtmEP1ebt-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhANIMCiTYnmB6SU8Z5oyAv2PHoIOBOXYB3d_398GwQaqOAiB8hCCYdnjdcibWNcw14-CjFzH2UkOX82vRebM1vTC1jA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "CNBC-e",
+    "slug": "cnbc-e",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131771/ei/m3pyaeC2A4m4mLAPrdu_iQY/ip/62.210.208.90/id/aZ3ycSbSYBA.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_q3i83iezzv5icg6nTCjfrgSQhsqJKW_e56zHJV7iONWmKpuFtubIbjZiYh4vlObst6Fo7KB9hB/spc/q5xjPN8-HDWO2Cdcc9itaKK6Ekm-L2Iw-dw9jLo6yKcRR2nUM1VaLSPTP5KGeJO4UHr21Q/vprv/1/go/1/ns/Qh3OzYnOCz7832JBVgp-FcsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/i8ji-e7LVoFxUY8VK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgRNjTA4kZ0MqyeRrXOa9sguiNWw00otmrn87EPO6itHECIEy__2JFXIGjQJZC2fd-mSUxudMCIgdr8ZCRxzLa08jC/file/index.m3u8"
+  },
+  {
+    "name": "CNN Türk",
+    "slug": "cnnturk",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131775/ei/n3pyaay0Gu2-mLAPnOKBaQ/ip/62.210.208.90/id/tt-Ma9RpFGc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_p0O25ojo4g7rNyGX-2XQWnRYDBs0f8mp3hkCmwD2AMWAj4vR15-xl_9sGrmsO3BgBl4tOKGEVG/spc/q5xjPH5VgQ2V9Iu0ixI4mzMAa-lpzMLBNtW6OfP1t49pavW22jf_nKOf1RvgZnAkcFu1fw/vprv/1/go/1/ns/ke8tMgGlAoGJ2wnqDODIsgQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/MeltOPjb_NMMSCzUd/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgSkG4-8fjxhWEyyUrhVIsxWGomHgblUmjL93k2eV15kICIDN_r7-0BAkwqJBurNqMNNA3HmMp5lG0GAO0v_UBOKus/file/index.m3u8"
+  },
+  {
+    "name": "Cübbeli Ahmet Hoca",
+    "slug": "cubbeli-ahmet",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131779/ei/o3pyafWZIrWtp-oPwN3m8Q4/ip/62.210.208.90/id/V7BRVvXZCzs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666466/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_ptLeivBrrhpU4RHkbRS66w-g8R0rIdlLBBR635nDA5XGdjc8cL_noZTTkOs5nTWVuH-wydEm3P/spc/q5xjPLKzNnuD9FtVeC1U9fUThnJKSMJ6Eg-mmrGZui4479yV5IcpsyG-BuSAQF3MhTOm1Q/vprv/1/go/1/ns/h-Uw0DLZ2-6kdvs9C4zv3QkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/OUhF-PkUkS1XZ_k7A/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgKEz4UnRtuSwcK4luleaE-9RCluJ7RsH15qJcHLfL_NsCIHIL7EiY_DLWU7iJH4gBu1H7nNoW-2vsJGSeXQoBXDua/file/index.m3u8"
+  },
+  {
+    "name": "ÇGHB",
+    "slug": "cghb",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131784/ei/qHpyaZuFHMj7xN8P08zP-Ao/ip/62.210.208.90/id/gk-NicxMLjY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_r_T7CYByZlMdcjGNVqVhbuz7lkj3ck01lYx1r6WCx3JlUn1xP9r2moH124b1NG85rZd6S7x8Jp/spc/q5xjPBgZHdpdZ_RsuV7Em6-48JSYpLjGx_uQOHSVkyOVzsuDajvTcKhaoWJZd_mcD5_DmA/vprv/1/go/1/ns/oSpBTMMyAArAFpXCS8vkOTQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/IgqEOU78-MNHeRVEC/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAJXaLfYR87TSzu2UkPOu0YHUYPlL3K5K5aJGIiOI584kAiEAzVQqKFGiTwAlXdt31aGDpxy3ZHAeZTbbj-SJjs4ypGM%3D/file/index.m3u8"
+  },
+  {
+    "name": "Çiçek Taksi",
+    "slug": "cicek-taksi",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131788/ei/rHpyaYP7H7GO77MPmODKgAo/ip/62.210.208.90/id/h7AQN7Z3Zmg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666467/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oInk1VxiOwbo4RL-pBFomz0iX00AJVzUGRkaFuU11M_3o4oOrUcW1QHpe-dj0p5vxK93WIF5ge/spc/q5xjPEYoT0mlip_N8rSEDw9UH5Yf4ST_z4PEdsuqnh_T6xmoBqHXpqOY8H1jikOA1GDvSA/vprv/1/go/1/ns/Yt0oa-44vCoTfjQbXvnMl9kS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/eXNJeEMu0Vz2zxgun/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgEgSAYcVGeYmjL8tliZ1q0hECwTKRAHGsFMRY5oBdP8ECIQDK1-nnMzuskBV2EGKdpVXrAi_iXTV0sLAdNHflbngj4A%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Çocuklar Duymasın",
+    "slug": "cocuklar-duymasin",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131792/ei/r3pyafbDPIK3mLAP-8DDUA/ip/62.210.208.90/id/kWAJPqSWW50.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rxmBCRSg9sppXwBlQFWvHtrpjl4xeF3s_I35SjL0GQJWPyW8tZNQIMsejURN08ZHn2aoLt5HJN/spc/q5xjPHTXCG0C_AVP7SQlIobB8X06ME-wKDGztMFwZwS7A7CWr_p5iUo-ikLeTpJ6fEaZCw/vprv/1/go/1/ns/FO3sPvdzdprSoAoc9wrV4uAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/IjSCeTtAExxt2i0OG/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAMvrJ_6ulmYC_Bm3iYnqjWMzreLX97zO0y4DKks3En1DAiBfbAEBIvwOekWGaZCfWmcD0uyp-WJV_FcEkjRYwX7F_Q%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Diyanet Çocuk",
+    "slug": "diyanet-cocuk",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769129315/ei/A3Fyafi_HsaJkucP_9_hyQU/ip/162.158.78.5/id/KURUlpJkY-I.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_p5jacNytJFY6kYZsXDMVGl2yBxUBVtFvWfitCAjl-2GwiS7kNlbcb_GQaYesCVnQZu9NwsitWb/spc/q5xjPNIxVgBTc4OyO5u1FV1QykpI8WZiS33-k-ELUdcsLF3gufAGrxladEYIa5TuFY9uYw/vprv/1/go/1/ns/dUeYL96LYFBeqnbkN1_UtWES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/ntKF-F_tJbhGjgrfq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgAWC_EDhIoOWflzucGRIwphiUspNrKKPjinFKMKR1smgCIQDFRzvVE0QCSWWayIUg1cTsnrh4htNuOzNf5DHoZ8m1ag%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Diyanet TV",
+    "slug": "diyanet-tv",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131800/ei/uHpyadXLJNnmhcIPz6HLkAE/ip/62.210.208.90/id/I372ZjvP1DE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rMeFFt8wAquvITG6Y1-009b0B_C3eF1liChpt7FkWbDyxLXr7LU9EYB8wvJjNSt3CpsVcD5dv5/spc/q5xjPGE0CjHSMKgS-C6g0h7Hq_PZPWUcCV6YUFtvQFD7FoWfhS1sJSEL0UkzGNcCXnjBMA/vprv/1/go/1/ns/mP0m3m-DexEfb-n1buNMWYwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/NNJqezs7CTxzVZQIU/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAMDVdSChoFIEuYkET-CkwsjvGwOq0fInoglK_PqZxNOgAiAwSMy5_MXePR8DG1S4Ks709ixUywqQd_xHFEf92ZLMxA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Diyanet TV",
+    "slug": "diyanet-tv",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131804/ei/vHpyadLBJeSgxN8PjJLMgAk/ip/62.210.208.90/id/I372ZjvP1DE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rsQE5VtQImE8pgYyVMkibO05Z9RqCJ_SdoLuB0-lgT0Yuw7wXkN5npw9Vr2c5fatSmi7kD22Ks/spc/q5xjPGVoeKdWn0lSDs6LB6FpJifd1AnMZ3D55B5TZpqUHZAK5-daihk2fc2oLjEwyU6nxQ/vprv/1/go/1/ns/2YCoNAw-gFqIqDz8LPEkSpQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/e1rnDlsi5cemfpxm/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgFtm36EP5BqxYPOdcOTu8mQc3_mBBtrBskWVGr-3Uo9MCIAFC9CGUSxZmpPAoNgQmI9_mN_M5fGTYYHV6o_EHBc9-/file/index.m3u8"
+  },
+  {
+    "name": "Ekotürk",
+    "slug": "ekoturk",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131815/ei/x3pyaY-9GcWgvdIPiPiV2QU/ip/62.210.208.90/id/UbWmeyDLf6s.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_qru3jLG97obj-bELj4m_gndHsoIjxl_fLbu-j9dvw9aJ5M0UqblshCNj5xLUQSO2vSaEwG2-2o/spc/q5xjPJycxQKVdvUe6wvmUCC5oFoqiCyXmMBsru39-Vz6M1ypwfJQ6-CGNcOng-Mf8iOmFQ/vprv/1/go/1/ns/AX8fs8APcnUD1v5gavRoaBkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/DqPgO4a5rNd9gtyMR/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhANI1uaHBzPb4a8MwgdHxCBRkxvjM9VjOQ969MtqlIhQfAiEAseig4vYtj2kOqrtj0Pl6QIJVHtkkKBDKdLswtK_In64%3D/file/index.m3u8"
+  },
+  {
+    "name": "Emret Komutanım",
+    "slug": "emret-komutanim",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131819/ei/y3pyaaSdD6GIhcIP76TxmQk/ip/62.210.208.90/id/dly2P8wDvzc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666465/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oW0PZVm0s5tsYXi_zYqkDSMRlPcarHXDo8uzxG-FxTEos3IchUxn6CbuDazbcsL2Cu3ocaCOGE/spc/q5xjPDN3rdtarvASolLhIn7tM_TlkET-qr1Kjb2Z3zs2hNq8vgjVYJ4KLQYnPpY2ppOHSA/vprv/1/go/1/ns/4JE5PGSC0IME40AI3fudyM4S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/whYJOp7yPP1A4Ce5q/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgXIWbJ2xYOIRlVh6AZz9ApU4DMkenBU8rKvwENcxltV0CIHvBEcNlpk5R0fLtDXKmLCG3votfVxRclYaW4zXTGTFz/file/index.m3u8"
+  },
+  {
+    "name": "Eşkiya Dünyaya Hükümdar Olmaz",
+    "slug": "edho",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131826/ei/0npyacmYIcSgvdIP5PHCaQ/ip/62.210.208.90/id/F0yeYa-SSDc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AW-iu_oCLA7MLYNHXb55vPuRTXn-Zkf3U6pfl_fndvBst5w_IrLJWRewHxESF-f2bRFUFIKpmMRKzmCF/spc/q5xjPDi6mfK5S9tor9zltUIdZYXInuIjNkhvKqFjivRTY3hZI_rqkoa2XkWXMsLmo_P2VQ/vprv/1/go/1/ns/5nHWyZNgOQj_Fni8XJmS1qwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/-Do_uJKCNabIEjZdq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgRIfC7XI1lzW0XX9xD63qsls7Bu-bbBk1xyEFKk68iXwCIESbDHaLOvV2_IZkGHCxansfANhaB7owDcL9LjHp4tDl/file/index.m3u8"
+  },
+  {
+    "name": "Fatmagül'ün Suçu Ne",
+    "slug": "fatmagul",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131830/ei/1npyafaNNpbFv_IPqpfk8Qk/ip/62.210.208.90/id/DFP1abasmfU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_paSh8soTdjhwXTCnyVD_P2iLB8chmxdPx0Wlww1f_PR73-x1-VJKkMfU9TOFho_l2Tw-73wPC8/spc/q5xjPM71gPwEeWzrTBv3jFicb3iks_WL7zlsBTrkH5UkvSkDzNEeajtwzRmSbNtKDddfDQ/vprv/1/go/1/ns/pySO0OV-gymJAPiT6fJuGAMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/sRcjHuzvIwp0wdy_/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgDVsXEEmtIgNyRIXcLJLGyIEGuEser5CK4r1GfzaZZ3ICICmeu4gHD6bYy2gLcxyDp35zFU9-SZqFbmTXZ5x5JspP/file/index.m3u8"
+  },
+  {
+    "name": "Film Atölyesi",
+    "slug": "film-atolyesi",
+    "logo": "",
+    "group": "film",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131834/ei/2npyaaOfGsGwp-oP9rye8Qs/ip/62.210.208.90/id/pdyq7lixkPI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pedPE749rTeJ03pWw3FQy-feqqZ4a-tXtIjLz6X3F5XFJaSOdw5sIf1rKA8yA97bnzTrtlpkTg/spc/q5xjPCRHry0C6VPTVKJKbmGXpYcCL0fcObIi_InwAUQvEFe_qMFqnEwW0F5k3-abJCKrgg/vprv/1/go/1/ns/jqEPw569S_kwk6R0K9JmKIAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/I1Rt-HZshcnzWWZVM/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAPTg7vF6ZK17qBIKyah2vM2C7Kml6Cv1NGJOM0Ztc35BAiEA2RgKQR8VbEeipFxFhfj4EeWVUAo4NZnlaSfjaSBTySs%3D/file/index.m3u8"
+  },
+  {
+    "name": "Flash Haber",
+    "slug": "flash-haber",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131838/ei/3npyaZ-5N4iC77MP08zeuQU/ip/62.210.208.90/id/5BN4UOUVOFw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oSs0hGVwXAeSA5cOQZAYUlJbCSHGEsPtnFj3lviob1T-SxP9KgRv69-AG202ozeQA-BVEVwXVr/spc/q5xjPKqeMc6bPreOri4bHJEP8vp6xCd6iCkqFGjO1M7yDDM6K-_cV8GDSawdHL-q0HyKAg/vprv/1/go/1/ns/5ZOHx9s63zClCYfFwGvBjfcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/Nl-wOxOyNyYZSZ1Fk/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAM7k3jSFvi58NfHE06RQQ6L0YCtvS2NJH7wpzPo2Vf9gAiAbMqY68_TJ_YazrltCQPdXUPnhBYbmVLSVRkXItd3mOw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Gönül Dağı",
+    "slug": "gonul-dagi",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131845/ei/5XpyaebwMdG9mLAP1-Wu0Qo/ip/62.210.208.90/id/DT2M4h17lGM.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oH1q1l4-wt04LFvzvw42rp61eEHA_dX3XFOyVWTpvXYdl8LSotYQ3qlDHrr3hG0vi2lzeaDajg/spc/q5xjPMKvhPlJtFOqeeKumdV_ZoITkDVMtnEKEPxjc0y0zFJDZmgIKRT2tfqLgL-icp-Ufg/vprv/1/go/1/ns/kg8WHySiBGJaVZEdD4TC0l8S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/cKgRuj7TNnSB-V-EZ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgYxtRCZPZKtQB_OokS9nf-XbDrRfUx048QUF7Hn0gV6kCIBuJ50mxpUR5ORTgtREWRIMB088rg-kW9b2wiOcVSQj2/file/index.m3u8"
+  },
+  {
+    "name": "Gumball",
+    "slug": "gumball",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769129714/ei/knJyaafpM46lkucP2cun-Aw/ip/104.23.209.99/id/ackE5a43btg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rDN_AxvBGXN3mzgXOLN5i9GRL8tgD_mqJ-zFRjQb7xu9xgJ1au7IHjH8g6WTUOlfUTM1GPutxb/spc/q5xjPC-84gv-Ks24Us7q6Fic2zqpiG51CXgVk4oNlfkBoAByVZuHaFpBjimaOuNakHi4Eg/vprv/1/go/1/ns/IRldsCnYnn2Hl7x3K682aqwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/2ZJY-7m9CX3CWB9Vt/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAKknYU-yQuOfs5eW06u-31TkLkFytXlq-0I2DqR4AeBBAiAeCatgKuivkWTTObkm9nUc-OZFg4oqzZZuRT1FoinRaw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Güldür Güldür",
+    "slug": "guldur-guldur",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131851/ei/63pyaeLcLJGC77MPiYyx6Q4/ip/62.210.208.90/id/js9TyS-tojY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_q4NTqrJvGfEEo-1KJrLJsK0I9QUqxTIHuNJZiHt2rME_pc-vVrl8qKRySJb1ZX8cBkMt8OjPrO/spc/q5xjPIDs0r6T1aoN8ZJ--UlPAVbhFTQ5lNvYJ1bj5p7T1mFuUEOxKqChCetZ1jeTV3C5aA/vprv/1/go/1/ns/iEq9SqmGqj3FGS5stR-fKUES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/53hOe43lnnRNbBUnN/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhALmtiy3cL849JHsqqd4fo0NSWcul0W28zA3u1BNyelqbAiEAq_5Guaw89pNjKvjNOqi3pbMwUW-iwRjVq-cDzNiF4Sk%3D/file/index.m3u8"
+  },
+  {
+    "name": "Gülşah Film",
+    "slug": "gulsah-film",
+    "logo": "",
+    "group": "film",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131855/ei/73pyaYLGM_f0v_IPhOSI8Qk/ip/62.210.208.90/id/VkB9S_nInbA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rjKSgKw_gMATJGjcCdLTT6_IWymRsw_7qi2ia9MPWJhmft-I10j5r_oqLDRhZMWgu7zJwVPDnJ/spc/q5xjPNE20qtZspeSrGnkyPBW8CE7wq3rYAigBwxba5oJBDZYAh_x-yiR8rw7LpM5edkJwg/vprv/1/go/1/ns/MlLBcSY1kaaNzRZ4wxta4XkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/iEjquo3Ct2YRIKJ40/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgDAkeaNSPJVxRjKJQWYWFmEhApBO6rAY2MeJ1GWYu-NICIQCPqu9u3qtoIDXBLmJ9nY0Ceaz8IxOouw4AwIDNY0lNqQ%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Haber Global",
+    "slug": "haberglobal",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131859/ei/83pyafzvJJbjp-oPsYfn6Ag/ip/62.210.208.90/id/yKYLsbXyJNk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rxcvvYsNMg9NVkHjEbNamBX90zS7RhRXi2Bg1FdZbcb4wXUJ7c6MsUiHbooLIoM_XnpmBHI8l8/spc/q5xjPCBHXlBUsRP0su88M_fX108DpA7TEilMTMlY--vAYvvLB6aRZPC9oMjAfwMN4xZV5w/vprv/1/go/1/ns/Bn7EdvU17X2ixDDWtXHKQokS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/t2FyOzn4TB7b4J5h-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhALpJsd2VMlL4yMBuxAsapq1TfwNWfW66e40a5j_DrGGLAiA4farqZggAfGClSH_lnrQOYWGgwHI4ckv24F78cZkWAw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Habertürk",
+    "slug": "haberturk",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131863/ei/93pyadjgJ8_AmLAP5KPj6QE/ip/62.210.208.90/id/hyaHIRx8gfs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rgo_8hc27-gNS8caIfPqVZ7Qm-9KSQkl0ZjNVdiZpmCpFXLEwgeofgLqV_6icDvFj4QTxnvjCo/spc/q5xjPG-xTkmqYrU6OUIOTqhL5EwFyeCUS6eQ_anoJwqYU74qSRlvwARx5SHIWn3vBwHyNA/vprv/1/go/1/ns/Pi_MqryRXb_etAALIY8yZZMS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/XelUey81h3Mdi49mb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhANOg0SLXj7tK7VU62kPoXJJf0LBPFYBGTldUG9nfgmq9AiEA0qA81PonA7u7ZscQSn8Svmnw6JW6kHqrBLZpNp4-d1U%3D/file/index.m3u8"
+  },
+  {
+    "name": "Halk TV",
+    "slug": "halktv",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131867/ei/-3pyab2FIZrdp-oPltXAwQg/ip/62.210.208.90/id/spYWsiJfjD8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/maudio/1/bui/AW-iu_qsssY5ZNU-0HxdthFN_NUZn-GsPCps3HNR9s9AUpLy8dS9Lm5hgQkb9c8GiWg--M6nybOvOsSN/spc/q5xjPIK5TnruhT5QoG7F_74HfUSeL-p0oUZW_4hViDzuLfnu5KddjvgSkjcOUqJAaIc0PQ/vprv/1/go/1/ns/63U8wyULjnqJS2PImHBrKA8S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/-H3t2m3kHF4vPRLD/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAOrL8f1r1KKBzV5CNdTIfgq-dcdzHFcZBMKCEsVCOkRwAiEA6KaZfoO1FZIzwdC4kVX_XZqWltyYw93RHxMJCGfbAGI%3D/file/index.m3u8"
+  },
+  {
+    "name": "HT Spor",
+    "slug": "htspor",
+    "logo": "",
+    "group": "spor",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131872/ei/AHtyadn-COLLv_IPtsze6Ak/ip/62.210.208.90/id/ih2KAtA50I4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_pvcniZXlSccoWDnR9Dp9amEOj4xRjzBlrHb22TLc3b4m_O1pfTM5OuijZWD1j5Gp0JnaftSfGG/spc/q5xjPLVKF8VHRDMLSoqa3i10r9sqPeKB_cuanJ3uieDf6WA6rB0jvvQmBRY0ERyyRBatZg/vprv/1/go/1/ns/R-9Nrfrgk0aHNIObjIYl9LkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/Qgr3u9LsC3fJZaDpt/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgRspIX3sVXrCl3Cgm6vD9-Zj0JnT9uNjHcPSI8s5Sno0CIBjgfHGDpDnnfoCTLynxkkw0JcPUbmUSG_3M68PAn2EK/file/index.m3u8"
+  },
+  {
+    "name": "Huzur Pınarı",
+    "slug": "huzur-pinari",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131876/ei/BHtyaZCdD-Km8uMPnsCYaA/ip/62.210.208.90/id/bbTbpwzlhZ4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pOaIQFrXQvABH24iKzY26KgD3t2C4dGYXvnCY-vqUvAKLmNRCZ56N7XOqeUFYzmDqXOHAnfcUX/spc/q5xjPBHdW9WXU9rCVTbCbJVawyh_7x8QiAgKYpPEc4EhEgT51TIyqNr3mBpRJmxMevQAFg/vprv/1/go/1/ns/kfzkEmPB8r3KAR7Bgc6fCdsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/bcxqOUox_cTZWSNVy/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgOGynSggFJQpR_D_L_PJaRzs4u-l9g0XXJtuJe58CvwICIEa3XhBO0mvJVLegqsViXKmeDwQ0yqsWQfKuq-XGFMX0/file/index.m3u8"
+  },
+  {
+    "name": "Hür Asya TV",
+    "slug": "hur-asya-tv",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131880/ei/CHtyaaCZEIup8uMP8ryRuQE/ip/62.210.208.90/id/580TnaIbAjA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pIZQcYLx3v-JtEwAH1-EsSi5fhQNFKlDe_KrgTMixPrxy5xIQPqZlOAT0EPbX8bUEZ_xBRkBcP/spc/q5xjPBBXnQjQbUXAJW79dr-FOC77zZiNsqybvQFuzxtHgiJskMY9UTgd5uDbWPeC_qg04w/vprv/1/go/1/ns/EMr-bTyMiRaFDX-kcdZtUBES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/6lKoO9F1jQOTOLOdj/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAKFZdO0yH9kLqa4efKdC48lQSLEnHvgPeOhgL3U8SDQiAiEA3feBZGz9bd1zsi50GawX_IP_GfZREazUmkVLrDzAlqI%3D/file/index.m3u8"
+  },
+  {
+    "name": "Hz. Yusuf",
+    "slug": "hzyusuf",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131884/ei/C3tyacP4O9nap-oP0fHO0Qg/ip/62.210.208.90/id/RhcWaWk0-W0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qZPxJ-v6kGPJGtKkaJN9Xvq0FF-GdpKSPZzPwvZqNFHSlAi54IyBs8MfT4ZrMZK0uH-rYw8vBB/spc/q5xjPH0stGuuDz0i2KM0RWuHDrHypq2CXnev7pqUCN1mojuvCKhA0A_OTpXbqG6bZNc3aA/vprv/1/go/1/ns/LQCYuN7gjLTiN2iv1fAu8b8S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/LsMymZkUVi8l6QtB/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAN2-Scl62UejvGNiH1f8u_DZBkbOH0uJVrVPBD1SHVa-AiEAtN6SavJkl1hFZLGbdb7ou75tD_3LOZUcOdCztw7KUqE%3D/file/index.m3u8"
+  },
+  {
+    "name": "İstanbul Muhafızları",
+    "slug": "istanbul-muhafizlari",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131891/ei/E3tyaY6ZB4OPv_IPxcuO-A4/ip/62.210.208.90/id/kjFVicM7nLo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oRH5YBeXUdl9BxgIcVNkZHHxqi6-Yv2PvNndm-04mlvf6gEla2ZWgRsPct-yAm9KDNvYGe8MQz/spc/q5xjPBmHVO-QvV7ZsRIRsu-io6ngxsQyWdUcrvkVCf5TtfjmAxkvkapFKSkeaKM47g2Q_Q/vprv/1/go/1/ns/XrDIbIFu_v6XW5PNKoOwBYcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/gf6ROF46mHeyXXQUA/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgNgnJ2kV37AUrltNXchG8vhiHNY76jdooxHJF3AUDe1gCIGmKruJGcnc1YStUkJln75sSSvTtAhhCnPkfVk3W8Cm9/file/index.m3u8"
+  },
+  {
+    "name": "Kanal 5",
+    "slug": "kanal5",
+    "logo": "",
+    "group": "yerel",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131897/ei/GXtyabSiA8_Qp-oP6M7W6AE/ip/62.210.208.90/id/PjPjjwZ5Llg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_or3imcftpiN17lNHAQtAy4H0loObOqkIDQIemPy1Ae9-vRKDdJiOVsh6a4M4tEKIpDWfaynBrQ/spc/q5xjPK1hCPLkSvvBVhTXnTjsEYVR6gQ4eJ8TLpjRLphrrYMautw79Oz9ALuFOvnY_0Nj2g/vprv/1/go/1/ns/O5cg14bR3a-707Mi8nYk4AgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/dk_8uZ_fVzEjHtBba/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAK6ZvXUyBfQvYonN59RPhPs4U6aqVY08tecYa70kKCG-AiAMgmhXUa9OMwAtLbcjZG4mgT4sXVleP3QWQ_6bGXJqTQ%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kardeşlerim",
+    "slug": "kardeslerim",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131903/ei/H3tyafGLFO6ahcIP4_mBsQo/ip/62.210.208.90/id/-vVs9H5Qj6w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AW-iu_qE8N5vyl-4FkTOkoasPkxpH5TpeIIG17hHTNyaNUtJeLJVdN-Yh6PZEhtV2tnzD76gDelo-05k/spc/q5xjPMh8zgOWE2vechzcAv6Mkkg9jotPX_tXJrzfN-cImY3LZ_Q3UkaYeQEIfdJix2SkqA/vprv/1/go/1/ns/7BNX-pqhv65hiMLFPyIIKVsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/uz69esrSoCRUbgPql/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgG7PQH-jeOtid8BI94EjQzQBCdd9wd6LsmRFvXj1oowUCIQDFCHR7oYTmhJMeDE1nIJVRwFf8yCYkSaa4atrEnocjjw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kemal Sunal Filmleri",
+    "slug": "kemal-sunal-filmleri",
+    "logo": "",
+    "group": "film",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131907/ei/I3tyaYTRIo6Bp-oPuc63-Ag/ip/62.210.208.90/id/XzGR3rA9oho.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_qE2aCZVtfLBBqQUC_QwPyp71u1NHtF3WIRKYjnvOd6DbUyV4GJp9sg_S4riH_IklX9Rgn-RJvh/spc/q5xjPNBVqBZw4XQCvhxmsm-yVZMoaZ1xE0F_NBQcUBd8TMK_DeauPhgpcOrGsKfBKQkE8w/vprv/1/go/1/ns/Y8py0zvSbGOa7TLQtNkV-_QS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/dGzB-ibDgxFrxBZhq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhALDoWre7UCQaxqpU-KMxYgH3lV5UWxIjl8JNBi2KoKbEAiEAqOFVAYLBZnmOoRrA3GV6PFIBHmCbleHnyPi_2BzG1iE%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kemal Sunal Sahneleri",
+    "slug": "kemal-sunal-sahneleri",
+    "logo": "",
+    "group": "film",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131911/ei/J3tyaZH_F9fRp-oP08D96AI/ip/62.210.208.90/id/_pRHXDSK8sA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oa_PLxIEaA2LfAxA8-sEJFzQj9jPgHS9B-aztaX8503Ocqe-QKfJKyZqxjkIoFR8VKG6X3-qkB/spc/q5xjPOlBYPgwXXODUuamb6LlpW2d2gwOfQCV4nVbWmsbao4WNiLGLglYMrWv8eIioreWkA/vprv/1/go/1/ns/5WcL16LAjZ5i5z-hGw-Gp4AS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/bgGIdx4hzcTwcNoV/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgUgcn9PQKUfikZuuV02KZd7Dlt3oZkidXkhX4qQbGrNYCIF0BKltPEJHiC1nYFQAXK9VqaJT8Vj4e6kl0JEiw5a5K/file/index.m3u8"
+  },
+  {
+    "name": "Kısmetse Olur",
+    "slug": "kismetse-olur",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131916/ei/LHtyaa38BojVxN8PnLW-gAk/ip/62.210.208.90/id/R7zIWyGdLLQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rRrXSSDcDl5Pnu6R0a4VeKYEP1qJ5Vq-dBLu5Zh0NrH_ulaKQHHzcxjCWFMOOE7HF4UiSuxCxY/spc/q5xjPGAA5E_TBKGkLf2yQBhB2b32g6IY8Nb9zwdpeKMRbLAKalE6uRElcyweZ9DnEatKhg/vprv/1/go/1/ns/LSYtQwXmB0be87d2sYD2Z4AS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/_bBp-yNfGUs2xk2gf/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAI69DS9NCXtUPdybDIXB5DPu_B1xHh9Cy63XGp5s1lWFAiBmTmtTOo9JuvIHxyJoU7FBfOZJVNLqIBxkJGh0XZb_Sw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kızılcık Şerbeti",
+    "slug": "kizilcik-serbeti",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131923/ei/M3tyaZKCBu7WxN8PlYDvwAs/ip/62.210.208.90/id/QXTh9Vqzc18.75/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rs56jw_Dci1l6odfu7YiPxfnG4Kp-EuIuJVrvwjrUK6QfgeLLwxgCcfigjdzturiJqAMvgsXMJ/spc/q5xjPHSCgkNk936rbC0ywpV9nQl-LnZFnHXi0ftO74BrDd9KpmTHAu5CABFBnl2rEEPMUA/vprv/1/go/1/ns/VaIBMehBqwptekHx-cdeuDYS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/xs9Ye4i__2O9xLwj8/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgTap9lHzlG_ix7-GVqibqQxl_UzEqfKnAXpB8U9UQwccCIF-y9qSsD7Ul8tjhsNlRB9DSL6wj1rzbqOLy_zRQUFwC/file/index.m3u8"
+  },
+  {
+    "name": "Kral Şakir (CN)",
+    "slug": "kral-sakir-cn",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131935/ei/P3tyabDjBoTEkucPkoHFgQY/ip/162.158.187.132/id/5Whk9MVTpI4.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_r1h0FAU7fDkW4AR010jwP5vCfszMLrYXnlh1lwtqxrGOktALGEy6KKCKGPAxNt1qsqiJw47DxB/spc/q5xjPLYxxFPvgNrhdv0hjLefBFw9QBPM_FrKplmfRFRqd532L28-bZADDhPrFUYKOxjo2g/vprv/1/go/1/ns/4HjGYpKhKcL3m8Ob3GQz-2kS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/HA33e3Vu2lOm8ttmd/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgFatmgbEumseV0ktErIcAl-2nK_tW2whZ4i4Ab7f-z6ICIQCfGzLhvgfAquCF7CjYZZ52kG_tJfiP1DaZo7zYqDV0dw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "KRT TV",
+    "slug": "krttv",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131939/ei/Q3tyaZXLI5uJvdIP363hmAY/ip/62.210.208.90/id/sKTq8zmzBvo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rZYBmoA2DCgb8hAwaaGWUuaLEcZJ204kRimEm1oNYetdodS2jhwmGrskf-juXTrSmhcIaAJ68H/spc/q5xjPORBadW3zkbBshqgLyt6Gbev-bXayQTcJjkKPLn73AqOGPpRtFHcO_ZCH7_oa9PB5g/vprv/1/go/1/ns/IArA-vaa1UWy90JC-WvFhLES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/VB8XuHEQTetLyxxdn/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAJC9ibrnqoh0jv9ZWeoHQqLBdPAH5_72iQLUxXQI20iGAiBCdxBeNoi8eVPHEX3XPEWgXPShK4Zgp4voilFUmFMR5A%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kukuli TV",
+    "slug": "kukuli-tv",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131946/ei/SntyabaHH6Km8uMPjZyG0AU/ip/62.210.208.90/id/3XuO2awY-P0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_pXAd009EzUCjCCJAXVwIyEMOIsVGzh9x9ToWbBesm5aXDtoluk7xLuPlLHEwwDBiuzwu2B8esc/spc/q5xjPFLGBih-vwSCXZDmGd2QWfc9z5tM4yHxL8WSxouhLcHAsoua9nVZshshBqjKS0uetQ/vprv/1/go/1/ns/EUgUF9rmht32gHlY0bt3VAgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/7fihuyouz8SFh32L-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhANDQW9wOgwb42YYXTlZ02MZR4ke2HHkrzq44vCl7wRxOAiEAuFfhu2gc4y0MXWyznlduFGejiVDPDKMNEi7bPZkXEko%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kurtlar Vadisi",
+    "slug": "kurtlar-vadisi",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131950/ei/Tntyab2_Nc6KvdIP7-bd6AI/ip/62.210.208.90/id/NzbEHkjHn6g.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_qPdwMvH7XraApwDHLyF9BTlDklk4MCEkyJyLgv-VKl93XoKRPY0tvlb4xcIJpq13eHjuvnIQxa/spc/q5xjPFPfSRUdk0RtHNy8ai4PzV5UXBtvq88KEp6y0gk4qq4cjvek_Pu4ZCXeQkX4sdVcFg/vprv/1/go/1/ns/UuD9j3m-AFYRdtW3iTBdpYkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/gi8W-qVr16-fmX-nF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAPx0kiLCksCEjC3LY6r65KGyNCXW3V_fg70yotve0cKYAiEAqMXao-dV0_fXsmyRNuDmu1GQ59SiSUuyP6yqXluvIQk%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kurtlar Vadisi Pusu",
+    "slug": "kvpusu",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131954/ei/UntyadqAMsGwp-oP9rye8Qs/ip/62.210.208.90/id/3b7k8zD_-ow.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rR2gP4I-9mE5zwOmoDNhXcLYJ_eFLvPCcGFppavFQGFdF8lgd6QUqp2RwpIBH9mw_eXoWFgVFl/spc/q5xjPMr7FlAjo1hB9cslM0IX8Ok1l1cj1oLtPrsRkIJYO0515tsVnYE2N7-2zGSFoAeEIQ/vprv/1/go/1/ns/Mk_AED--P-IcCVBlP0JemEgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/WOhc-_d1f_Y_pHHA7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAOsc0VYxJ20-dCQhfhxz-dqaZUEMVAYf8ebU_dBVp-YcAiBc-ZzbdV6EmHm_h7r2HCS-2aXo3cy53mkmln3ccIbecg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kuruluş Osman",
+    "slug": "kurulus-osman",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131958/ei/VntyaZ7eL8D4xN8P_aakmAo/ip/62.210.208.90/id/PobdnBU-QQE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AW-iu_qlik0ZjXJLUEOcCOtJ4pQe9xM0P7wLET9AIfK-driTNYWGTZedbIG-5tLWACn8upxQVL4789gU/spc/q5xjPPMRAQDcEz2YqlpMF3MrhA-7qh8rNvf-KtTBh6NQGM28d6SBCzVmfcgtmgfXpmja3g/vprv/1/go/1/ns/ODSZ5-PLBHePzjsRYs3z0CsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/Gf9oeXJS7ui-3KpIY/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgNola40ulJGZ4Hespp4-_zr-7yQKTlT2U5X2z11LwUM8CIQCDssbUik74IFFIzLzUWuV0QAaNMb5em1dnBMjxaDTQ2w%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Kuzey Güney",
+    "slug": "kuzey-guney",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131962/ei/WntyaZW9MPKF0u8PveD9qA0/ip/62.210.208.90/id/dwUvbkMAcZE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pT-eFPa_v4hwN0E5FtpXJ_Kpj6b01NoLT6FEFjzMDl_lKhArt9OIuwr_Ou9iGly-Cx9RwK35eQ/spc/q5xjPCXNoREqGiUggy9LikyCAq7ucIUylY1HRpVWmV_2Ma1fjSWY04pjYBnIq3Izd4Ppcg/vprv/1/go/1/ns/u71vZIHqcAygvzmnpdCV-IsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/0_2qOAehVdzXI2E2K/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgTuYyXm_ZRaoQ4yan3OeoAfswMWEEtNMSHcIzStUOeHsCIH1zS8eE505oK3w3_7CRoo7JmLL3FaTISnA0tyMB878P/file/index.m3u8"
+  },
+  {
+    "name": "Küçük Kamyon Leo",
+    "slug": "kucuk-kamyon-leo",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131967/ei/X3tyaY_TA537xN8P6Nm7gAM/ip/62.210.208.90/id/1rs360ckxcI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pzclvowz0k4EP1xLSPWGZMIOtGM3BmcGKjmCfapR2zlbak2ksNLPh_0zc1vGXQzRGtuEWLmdZr/spc/q5xjPHRrvQFzE_fx5VbfegNbv8y8jXfOQ_b2NeiCA-I-eR0byUQgBbgzlMMlpr-GuKOI3w/vprv/1/go/1/ns/psDTFCHaSyljrcMiAAffNLwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/R6iRulVccgihlQxrz/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAM6UXtzKjz8RVK7WbxIZnRcKoKRR1ugaONJXaaGkKV9OAiBPel-9FHko7XpPL_6PxjpYElLBXckLPixRbpcwW0MBlw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Leyla ile Mecnun",
+    "slug": "leyla-ile-mecnun",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131970/ei/YntyaYqDKrb4xN8PiOqYkAU/ip/62.210.208.90/id/3nlND4audLg.22/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_ouxgRqHGc3nWXQ2eICt5ovlxtJbUwkaXrBvU-dNA_OyKP3eMj1fBc4JenQOHSnlsM_M7JnNuxa/spc/q5xjPAC2eKQHQILfojsjimkFYR7REzz46HqZ17RWPNmTj75XrXiZdLpIlrzC7vjZyQcHiw/vprv/1/go/1/ns/AbISVxADXuNGpY4Z3-zFMLAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/iRpW-kLj2ga9okZIJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhALNIREzi-SY9NqIZRo_pBSVkeVuDqMByb1vTyC4IsMuFAiEAsKICpbpre0_aUA-hDK8PieyjcC2iSg7zVQPkaw12FH4%3D/file/index.m3u8"
+  },
+  {
+    "name": "Lider Haber",
+    "slug": "lider-haber",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131974/ei/Zntyae72Lcy3mLAP_7bCuAo/ip/62.210.208.90/id/bRo9_efafbE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oUaLoeuT_nTHhCMx-rlQSP4KN_rK-B0v9ZOLVnGL59PaH1KAmLA_nT-mxVdx2yIydzozoWFELA/spc/q5xjPEBUjCGpROdrqRzCr0dLwJiyjGy1ly7rRmq473pnAVRYe6UpSiNC01OZ6Jyl7Rs5rg/vprv/1/go/1/ns/pwSB2d952RhnSub8q0S79HkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/jQS_OK_nDUUAC7J_V/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgWt_upKmGS7AQeCFiikguK7zz70cIV-RI202B87PX3rUCIGvCNRSy4nJ_RkpnKLvZkOAyLjs9pQ9r7WHeyg2y06tS/file/index.m3u8"
+  },
+  {
+    "name": "Medcezir",
+    "slug": "medcezir",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131979/ei/antyad2APb2XhcIPiZ3PyAo/ip/62.210.208.90/id/xmKWKANmieA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rdk2IiJfurnwpggPMLJdPGthIFSo1qKyehaoBnm9UKsZUQ9cIhfy4rzF2yoZwCh4rgIkRNyaTF/spc/q5xjPPDfWqSAusPdQhE3To4m9I9jCDjS4af7bNYVM2hSYY96tsIpxPt3zZbfc3Y94VuHww/vprv/1/go/1/ns/HZKpTJUQMPNyA2-DHotoen4S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/m9ttOQ5wDnhaQVIsP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhANaJ6gjMIUDN-qJ6ymTk2xxYVnC3uLIeCEG8PtVesa0AAiBmh0xXuo9FrP1omphFZogLz0r6ZmpUX7KX2pUpZTd2cQ%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Mehmed: Fetihler Sultanı",
+    "slug": "mehmed",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131983/ei/b3tyaeWQBoafv_IP0PLFmQU/ip/62.210.208.90/id/6_AnQrbFvY8.33/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oWqljS-N68FbPZApZcJjewKNHxk_NZo2kEPu4cNP4KOpJmUrVx_CXp8vTZ46wi0cGRRPJVIoSr/spc/q5xjPL2OvXA553-MhKIKulDfaD52FGCSddwEewykcP_dIQlF4Zc3HohiuhspdLUglL1m5w/vprv/1/go/1/ns/btHssxDJeW0leJ1x36Gm51AS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/1ZGTOrMZo3yTxZSRT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAIuRiRJYX5N9n_R4r_1sdI2bRInrlqYqqu_yrUGCeKphAiEA_m7Ynii-_uUA_1LQTAM-yiKb0CD186T19B70MrFG6_0%3D/file/index.m3u8"
+  },
+  {
+    "name": "Milli Piyango TV",
+    "slug": "milli-piyango-tv",
+    "logo": "",
+    "group": "diger",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131987/ei/c3tyaffRHdnmhcIPopnMsAY/ip/62.210.208.90/id/VJGIVCgmgHs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qAplcH-mwGwd57ROGh-_Kg8RIfPTid4CEYdKNu1WjG_tip34nrIP3y61sxhxVTJmO4ulySjg05/spc/q5xjPBLpkoH1KL2E0Oc7r8FmisRA41lYDKC9h7ODLHeuaqcGh_02N8OIatVIcF93KLYtuA/vprv/1/go/1/ns/T-nVLTkGoD-yAUI2dchQ-HgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/NLkUuLM9DQ3eY4d46/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgf8H57nF0Dlfujunb4aiAs2u9jaVbJkjXh5pWUxy0IVACIQC50bmpXH7bzO10Nbgtta5vRi9k9c1rszpzX5-lB4B0Fw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Mini Bebe",
+    "slug": "mini-bebe",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131991/ei/d3tyabCCNK-PxN8P49inQQ/ip/62.210.208.90/id/XQ2Ejt-BZyg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_qg7G6REp5kwVgCNe-Yor7YLfGDTny9wjT_Jios4PXdvFoP2EzEw4DqyqhTebolR67quB4mvDqe/spc/q5xjPI-O1Fr9orBWeqOQZgWiYe9uPlEMDqlhaNUcvFAjJ53nOcsnwuynA_eEZiHJX4YFlQ/vprv/1/go/1/ns/PFaQq9b9ZPxsiWlLm7d9ZlcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/HNQEOzT_AAXlTkaVH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgeWyJkTJbZN-XYA3QKaF0RuZcr1AOAgR9KoTAfQ19xo0CIBS4SAJlsXdTriSe7OzJzWFSGdtQF19zXIJicr_oZrv3/file/index.m3u8"
+  },
+  {
+    "name": "MPL TV",
+    "slug": "mpl-tv",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769129880/ei/OHNyaf3SG_SGr9gPl4rnyAc/ip/172.70.134.117/id/DblSHAnvtyI.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rFNZnAzL0nDpwge4iAtVMHMIrDY0cNPkrpZlXnE3K5_QJLL0MBjSrbUb6mF6k_XWha_9Z-S9Rz/spc/q5xjPLOz4aj6ciRw-g9fZ3J-odmQ852iHs5_kZBlIaKM2HZVGWUu1qJ93pcP6elVcfNSmA/vprv/1/go/1/ns/ySwn7AyYSYRMSVVzvsLxT7sS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/hJBLOVx4CBW8uNx8m/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAME3oW1i76vFnO8hCAodmsyGTWsZa8bplLKtuwbBnoPEAiEAkY1KLEitciq98sSHb8lI084gfszleNIaVLbmwadJAvs%3D/file/index.m3u8"
+  },
+  {
+    "name": "Muhteşem Yüzyıl",
+    "slug": "muhtesem-yuzyil",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769131999/ei/f3tyadGwNffE0u8P1fDP8Qs/ip/62.210.208.90/id/Z02dsrlBMmE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pA2udWUPXeIq_YgFLxXiXP1Zj7vsU0dWn0kRTfztaYQ0dJKsryrE3IVjvxP0h2zjNF-QeIvmJ9/spc/q5xjPBMSbueSoH_nXeEP-b5tJe0uAR9deMPO02wVD3kyqsZCxzf2cFAXnVK8OLHDxXwlfw/vprv/1/go/1/ns/d62N5L0LXG9sqfKlxusgp0AS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/3UczOgWujYdlKzpK6/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgYbNHVOOCi-mw_jBvEIxqXCSfJDJYAaD2qveexN1O2TUCIQCFQgjuxrg-Ltg76kxMrdVy-bQFWf6ks58lObIzDK38Dw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Muhteşem Yüzyıl: Kosem",
+    "slug": "my-kosem",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132004/ei/hHtyacPTCJGgp-oPhY7a6QI/ip/62.210.208.90/id/Q_qrVHXMgUI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_q5IdPezBC4-dz9SBrCn4Aqov_vYHpuIslYH57fYEwXab6IynvG0Or3-hYt2_Ihwg3oyfzb4oHQ/spc/q5xjPIEc0VeDPx2hrx_aeboG7LY7SHntvpG2lzraXczxRIras5BEK_gIgCr0mickukt2eA/vprv/1/go/1/ns/eKkWOdBre22zACfFO88SYh4S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/gcRneEfLd2Pb9D56-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhANLgaOT-ZkNrjUXxMaLV9nJaWtGo6K3XWMwTVRT2TnYhAiEA-5sRTvNB8k_vXIz54ysyBbNpmuoDR8KTCIAGeX6fsu0%3D/file/index.m3u8"
+  },
+  {
+    "name": "Mutlu Çocuk",
+    "slug": "mutlu-cocuk",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769129895/ei/R3NyacrGMLvFkucPh_6u2QU/ip/172.70.35.187/id/pq4DNP7iZfY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_raBSfaZJ_nS9OTHvZb8aGw7AevxdS4xKvHC7YDZwRJt-Kwc8UdQq6XX_WpNw7ocuUmyYoL4_q0/spc/q5xjPHMXdtGyZKhUhjljP7sQpwMXHC2-M6reYBqw_cl8LQpkkWBXR_RyAvw_Agm5YaajWQ/vprv/1/go/1/ns/QNPwcdoLw9jrD8Sl9TZ5ItES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/rF41uDGEl2b9SBSiu/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgbfdedVFUG3s6vKv-Hd1DeQaroaN-9rlzN-Ig-3s2dBQCIQDViHAXEP2el8zym0R1xJoKNiFvAatfDnympcGX9mfuvA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Nil RTV",
+    "slug": "nil-rtv",
+    "logo": "",
+    "group": "yerel",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132012/ei/jHtyaYrMFfSz8uMP45uPuAo/ip/62.210.208.90/id/vU6NFJ_n9yE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/maudio/1/bui/AW-iu_o_7BLsIVZV-ZW0hY1JsHgv5yfuyul5pL3eYAxj0kG5Kn-lYL0CsJrkyBQH4UukjXVlXMkqLE79/spc/q5xjPLwMx7uMzo4wnxQSOMNg1NtRN9QpSU-Pjf5kxz88cY0UVGYs98bE4WzEnO0y4E9RMg/vprv/1/go/1/ns/riqmKDiYw9KxeGl33tn4z1MS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/7jP8e1ZkqFIKzuBMn/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgBvZiZIRw1jt10n8LCVIXpmjzNy4Sc8ACIy02SJuNkNICIQDAsxaquSRGz_zhF8n4R074npUInW3NAU_Bp7GzrmFkqw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Niloya",
+    "slug": "niloya",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132016/ei/kHtyacDFGaGmp-oPxP6c2Q4/ip/62.210.208.90/id/YyV-ji5qn9U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AW-iu_r9iVUG2vMv8jwPxaeZpRtgCSw9Ek4Ba1_31K-y8HEEAxWwiOqmL_XormE4AmxOXdT3_WovHDHZ/spc/q5xjPODx3CB77OgzopcfZKAHtC6TYMlrjqxEBuOB_30kSwr-zSf9yAwOdxJra-VYs0Za0w/vprv/1/go/1/ns/9AqqZ32moJoTRtOrf9cJ2XMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/30xweo5AbS-cEabk5/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgLUXanCYVjdYi-A_JoDC5LE-l4rtlaVNZBm2Ql6O8x6cCIQD3st-anQoxbnC4WZsr5f_UfO3JVqg1JBlZuGhIFSoM3A%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "NTV",
+    "slug": "ntv",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132020/ei/lHtyabO9MMyFp-oP5bGs2AE/ip/62.210.208.90/id/pqq5c6k70kk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_ol-qhd2j3Ja902TGnESki67EYmol6jyi7mGPvDPlTQQjW2Jo0HufnTc36TYf6W7wroU3VlKysm/spc/q5xjPNpioNRGoMX1LU9wQ-J2b60YOQpzfP39aDW4b8HH6i7aHIGgyX3l75GE8bqn3_4xvw/vprv/1/go/1/ns/gHgVWMZveTZV_5zx_m96oOgS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/LhJb-aNqiN39h6sPH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgb8asvUlX_LKbu26FjWIFmmNfN01JDQOaPZORbNWc0vMCIB232FCbbXguAEQ8MrkqnmD3BcY6m5EpB6Po7lU660ob/file/index.m3u8"
+  },
+  {
+    "name": "Nur TV",
+    "slug": "nur-tv",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132025/ei/mXtyadDlA5Kv0u8Px5q58Q8/ip/62.210.208.90/id/3bsskekN0j8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_pR490AG3o2MkCXscwdmIt_o56Lk4JofIzi7pZ6n1mHnSLc6CMP-QyOnzn4ka9ACXt_2RrwUbOi/spc/q5xjPAjOT0aAeGPETmwt1NfzS4w7FPkW0vnNz4grmIC7_L30UxI1fBTeX44EkO8aHjm0bg/vprv/1/go/1/ns/y2mQdsHpDtazmfPbKudbkYcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/KpQvu3B5jvSwqzTig/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAKrAnjiYUjkUYZmNn1kod-0P2CIPq4ak0Av3Sia4XvBVAiAZnw3AxYuW45v9kdCpkSK4VC3jbT-A5s29mdxgeVTbsw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Peppa Pig",
+    "slug": "peppa-pig",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132028/ei/nHtyaaaVMrCC0u8P1Pms6Aw/ip/62.210.208.90/id/fb9UTMLa72s.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_resrlZTmjl63mIXnPD4HCT_HdUbQXW5t3CAgqVBe5pRlCSWXi24QG7YwVKlqiNesMQm5zydqke/spc/q5xjPNjLghn7P1mFG2YgYljokbcODZpkvltO433vpcSYgLYq6jq261qyBXzNsAetCr1IVg/vprv/1/go/1/ns/3DGeeuEOWkO8ELDSAAHIqGwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/CsWZOSCTsBfQ9r30v/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgHsxdv1ezprTxTv3y0WumCBGxhh1tpJeW5o0HgPFjHzICIEdIuJ8MgHtYTBJQ7gbgx0x4MPCIPBguYHOIrXDDejf6/file/index.m3u8"
+  },
+  {
+    "name": "Pijamaskeliler",
+    "slug": "pijamaskeliler",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132032/ei/oHtyacb8GMuJvdIP_ffhwQM/ip/62.210.208.90/id/AeyzvIOIJtU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_odsm-g7TOctIx0VMeqy24kHCmGiwn9lTbZZER_1PtJBppXwrG5rCgVtF5r8e9a2XAJE6icS5Bi/spc/q5xjPINRuOJhpcTRo8J2qIB8AXJy-U-TR1jE35zyJRNHxH7RIyFE40VwxHiwf86jXJiuPQ/vprv/1/go/1/ns/-uU40zmc_xTgCRvH-TEr5H8S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/MB56-gt4M6P2rAjAY/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgNpDeg_sx9DyjfQuqXFxgcaSgQ-T17mBsXcaP9mn3VQcCIEKvSCWb1DibR-s2EWt1d9T7U9HGpBLKJH_dj4NM4aoY/file/index.m3u8"
+  },
+  {
+    "name": "Rafadan Tayfa",
+    "slug": "rafadan-tayfa",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132036/ei/pHtyabPPFYedp-oP_LTcmQQ/ip/62.210.208.90/id/iWGWWFfYWig.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rXzLh6xxT8CV8ZoKFK7QUWNSi9lztNaBLmvUp3G9lGWW8yQPak9jRAjAw-_dBed12ZuGtWbcRG/spc/q5xjPEoI7u9xBRqbacVamVMkBsU7O3mikJkAWFNRuSdiBw6ywxdArWYLJT5g0M5IA-D0Wg/vprv/1/go/1/ns/1-jxeJrXe0yI_qFVx6vNikcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/sUSe-6sSBaOwy2QVJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAJz3C3FnAyRNHQ0qTKkxzS2YRTHPJXncjYRa64L1YTGxAiAoFos_P34yHpKnrJNPPzVipnHbUHCs5ou17A6raGscow%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Sakarya Fırat",
+    "slug": "sakarya-firat",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132042/ei/qntyafOqF-DWxN8PmPusuQM/ip/62.210.208.90/id/LrXSGDCnmnQ.26/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_reqvpJs21ZVzKFmYw_zwJdXYgxxjC3dCMzPWTe4dRm1gCBl_OuzUqv49jxsrGAiw_2mZYPh702/spc/q5xjPAqfXHq7QTz3FlpifJ88NdR1g_yeWYu-x1M-GE0RR5bX4MON7-sZDvUg0YaK58K04g/vprv/1/go/1/ns/CYNSCp2EWM70j_iltPC3_zYS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/iIhP-5eqg88HhdXc7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgMiljTahYq2ld4KMmfb4QhIoNunwzgtKScFB6HXguQvMCIQDSe5JYTFrgtsrBbN06P8t36nfVkJ9PupxFRAx8D_71MA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Seksenler",
+    "slug": "seksenler",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132046/ei/rntyaYC1Op7Li9oPksDtqQw/ip/62.210.208.90/id/qGYlF1MiMxw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rnifqtZ_ZVz_6RthGYklPn49WMsQUuXon4FThf-OnONR-kYb91wstsdj_oGCwLuceNwkreE-y5/spc/q5xjPK1KAan-g7qG-QjE3Mfr_Adz7USc5eGT8y3IftrK5T3dVlsk7nT_wr6lEADNMS9jJw/vprv/1/go/1/ns/lRdPLXQbwyyQmlHVaO6qFwQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/fy2Vu-uJkxq8cD9-7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgHGyhKd-H9dtaowwf7O6XRCMbeF1WzyT3lkGqg1zHlx0CIQC2_lPucjt6Xce5w2aP5oVcnPT9Km2oT0qcOiq6OtWJbg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Selena",
+    "slug": "selena",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132050/ei/sntyaam9IPf0v_IPhOSI8Qk/ip/62.210.208.90/id/1lyLi6l74fs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AW-iu_quuDDkmlltA1_WKQTzhUBKV6puiR0hND5qG3QySR30eC8u1Y-yDb2o9f5VoVAYq39QfjqlUmXB/spc/q5xjPLXeiYHpkx0AVxXkQUjaiwLS1SxT2uzmiMMiVYTAUrY65gg6zKzUEWDjGXmb4AuH8w/vprv/1/go/1/ns/2qzxRT5PxnN10FBq1rJg0xwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/gLnx-4M2KT_pT4bOv/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhANX8UiHvAMib-hAUtPC0-TxqEmq1SyHezyePdtDH7VW2AiEAsdZHzpcbdRhV40Zh5ieYzp7q11Q_pDT2gmmCPuJVc_M%3D/file/index.m3u8"
+  },
+  {
+    "name": "Semerkand TV",
+    "slug": "semerkand-tv",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132054/ei/tntyacLQApONv_IP95uygAk/ip/62.210.208.90/id/ctbRvPkYgoU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/maudio/1/bui/AW-iu_o7bljSwozBQpuJ5bhjAoffGIeEPCW5QM9Xxza7f6KkrQ4I_GDwwOjU5WB78ciizETKplbet2DC/spc/q5xjPKXlgkbRA5OUEO5l7PbNn4whqOvprA_f7nnTw6ry7YJQ55NuE7PxsYFtL6SIBQQV3A/vprv/1/go/1/ns/Hj_KJ_WKjEGFx63Wu9IvqBAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/BUH2OIwSEAkBhbuPE/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAO3TbDbJ3q8t4kgTriLXU964Xh3oRKsof04qgAEM18LFAiAi6BJ31bSP7jRPrs4-lT5ZJITjrKfSHp7qWx4R7i3P1Q%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Sihirli Annem",
+    "slug": "sihirli-annem",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132062/ei/vntyaerHC_WhxN8PoteguA8/ip/62.210.208.90/id/swZASlT7HUY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_olWTMAGlhyVBlhp4AEf0KYL4ul3YqVqnd94PhWKIL3hkyQCMf-BvB0HwHzfNhpJPytvJTlRaQG/spc/q5xjPHLDmRIsRrpnORPJ1C_aKGWgQ0U7n_iNJwIG4oDT9oryyVT-tjOkYprMths01-DZKA/vprv/1/go/1/ns/ELB6DpNslN8nFk2xrEICHMUS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/-YyKeII41kpvamydk/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAPWu0iSR45L_n2P_hAeoCzJvUmEWeePehTzSDKF8Dq0YAiEAl9edaK4MbUWimHc35oPsmfhSE7ME2ZwX4oKyWxggnnE%3D/file/index.m3u8"
+  },
+  {
+    "name": "Sözcü TV",
+    "slug": "sozcu-tv",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132068/ei/xHtyabTFNrSC77MPg4DpqQ8/ip/62.210.208.90/id/ztmY_cCtUl0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qPZe3IHYf0Ssm8NYmOkH2Pcc4IKesteBZJf9XboY7XYqjHUwWV2XuUT8nZuNGPzpAmq3LUc4gA/spc/q5xjPCedmgIIk4_EwxtYY8v7M9sxdeDgUq4WYQOjTwfrxG9N4OijzsJ9QPuuMyzZLyItsA/vprv/1/go/1/ns/nbmKpCsTPPgNTxb_mH5puaYS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/8-TKe6x6Sj_TxJ6jl/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgPFIaFHZ4K_WeT0M6zKfl8VACQfRrB9LFhRP9YlQ36ZcCIAV39T16Iqq2t0Foz0WKGPeqIwziJLeJGtIp8Iaxs7WB/file/index.m3u8"
+  },
+  {
+    "name": "TAFF Pictures",
+    "slug": "taff-pictures",
+    "logo": "",
+    "group": "film",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132072/ei/yHtyae36Kpy_mLAP1Nvn-Qc/ip/62.210.208.90/id/5y3kDYxqxZU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/ss/1/ssa/1/bui/AW-iu_rpTkQc9QG95rU4IZjAh2eFF_QDbavjmCSevo84idHidgbtuqc2kX0cK_E8Bz4II49RAwWWKEyn/spc/q5xjPKV_qvVPMYLdRXyLjVbtsvfUmujPBOGz5mCe5_5xznEOcsSb1Oe8ZwtvgiIyC7Ty6A/vprv/1/go/1/ns/dUa1KDt59xcPQLeEK87PMQAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/Ab51ex2I7kvdxRWaw/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgRHyF9OhM8R0Nr2WVZ4_3RHaaP7WY1QhKMxp17iwrhPICIB_LQGqFB4fqitvVfMagAjOA1oX0uqXlfXLWtF6O7rjc/file/index.m3u8"
+  },
+  {
+    "name": "Tay TV",
+    "slug": "tay-tv",
+    "logo": "",
+    "group": "spor",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132076/ei/zHtyafjbHIjBmLAPgOm18Ac/ip/62.210.208.90/id/Sk_ajlfGdYQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rYbhaDg_eYC1-h2WETCX8aFx8Y5JFwl9qt8YpKcSdH3Uxup9xyWihKgDyKdshpov9EEzhp7eO7/spc/q5xjPDDFhWxW6w2II1W6l77cuHStbxty_IP5JYN4R2wacA8VnGKMEiJjLBfkON1jcl8_Cw/vprv/1/go/1/ns/8umd3G1SMGHKd23fRkAnjn4S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/hgslufE6c9BnunfD5/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgak9AOWMEL0NxabpV6nrY3kTkGREFOqRF8xgvZ3DhEmYCIQCgH_ss75xo9l3yFBl8ZLlxcb2Ce6lQxnyugok4OoBlaw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Tele Mini",
+    "slug": "tele-mini",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132080/ei/0Htyac6pI5TRmLAP9-LgWA/ip/62.210.208.90/id/_Fo6g62QVVc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_p2zMtoGGWoZ3HT-UXXWc5SRk8hbO2iiKg94z9rK_D_hcq77Nsp1bnFdFv2k9CcjFMjlYw0xoaK/spc/q5xjPC0YrUXV-9_Kg2b5dTDk3teNfp6DG01BtH3TcuSCRaGNewcw3Pk6x8J_MlPSQcJP_Q/vprv/1/go/1/ns/dFQQKY4LjLcCv0Ciu1MeUtsS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/u4dkOhBLRbrOxIYo2/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgXqijQ_oJXX4ESWdlZUJavjqXYwJqtgZJjjueE6DdIhwCIQC75HogQgzebH62p710s0fZydZpsPvj1AGlgPDklKzySw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "TGRT Belgesel",
+    "slug": "tgrt-belgesel",
+    "logo": "",
+    "group": "diger",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132089/ei/2XtyadnlO6vP0u8PzJmz-AU/ip/62.210.208.90/id/3IoQA-OnG10.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666466/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_q4wyMspZuQgk1hPSRzTl9hPUooHsf_lBpQ8s2qyOcPBP3MeW64NqC9AuUC2tHsMP0VzRh4umwg/spc/q5xjPAfEf0g8HUU31Wb1AWCjUbQypL_CmtqoM1JY7ge9NCK1zh-FnQV9aj77Rtsm1F4Pqw/vprv/1/go/1/ns/mCDTdbGfRlxYOSEMAEbSOC0S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/werVOVZgzqtZZRHht/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgAuYX0CCzXwoTgK-cpxXIED1aj8dcDhJq8CS6OC9UgRYCIQC0PxtJv0f8I4rHc6SEGFYGVaVHrCNHCGU-8ZxaJLcrBA%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "TGRT Haber",
+    "slug": "tgrt-haber",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132093/ei/3XtyaZ7xMcSlp-oPnZy7uQ4/ip/62.210.208.90/id/-Kv6HUKrfh4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_o2x7j1rcgEaOLlr9yk5qL7uRlxozzsoW9wDiw3oNlO4XHsSbfTcjsq4aLBnE3Le6nuQCLetaYi/spc/q5xjPLSSE3zpaUNj9gjiDcRbnZ0_18-_CwTJb2KyeGAI9abKP6uKYpiued4un9WrXtKQmw/vprv/1/go/1/ns/JYL6leGMc3jmWGURv-fKJWcS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/WttHOKGZVmjgzeB5W/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgdGGw1Ayfqfs8vrgPJpfFFnqIKfKF4jammlQfUIIgptQCIQD82frrODawBGoVhF5aZsMPvEJwYfTjh6PPXBQXIwnzig%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "TJK TV",
+    "slug": "tjk-tv",
+    "logo": "",
+    "group": "spor",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132098/ei/4ntyab5YjYu90g-10bq4CA/ip/62.210.208.90/id/g89RQMJtK6E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rhBOMemHfNph9XiIYz4yq0fruFiFgohFw60shabrRSZ_pK1Tym-HkPjye4Ats2LMfQ2mA86K7v/spc/q5xjPFLSFi2BTdYEr95s_U0--RtLHyuoMhPyr3z-hKeKZ3X6trsVqb-jcrsada7ntVDJ1w/vprv/1/go/1/ns/qogHKo1HMp9XH-ZcNGsV_7sS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/RPOr-7BTT5mIJMCxJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAPYKRDS5yPUDbz2MEEEMYauRF7AsSXEgktpxXS6JMcVAAiEA_OVgGMxl0OPkCnkY51yP-ThYeLShl7M1F8N5hYo_IvM%3D/file/index.m3u8"
+  },
+  {
+    "name": "TolgShow Filtresiz",
+    "slug": "tolgshow-filtresiz",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132103/ei/53tyadbSL8G8mLAPmpP2iQw/ip/62.210.208.90/id/eXbVwpA3WVE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qFCZBPjvxXFdZb1wQCuxUgYPcs1WH0-cV9VD16VG-lC_WNQz4FUfRhKVE54Y0KlH9JdwvTj-bb/spc/q5xjPCjuxGZS8qOErNWcj4_sWGFSu5IjSCbOseCSwNI5hOLJSQkEEbpLZONZ4AgpmgfFZA/vprv/1/go/1/ns/bo7L-2agOUAqSORFL3UXqKsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/2c6pOGZ5HEPtxuea4/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAPYBX3JVzfnM3ctCDFhi-1PULb9XNvpjdU-0WNPUeJmYAiB2aJBYXUIje9M1xiUHY6aUONJgynqfG0IJ3o_XlpVyAw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Tombik Panda",
+    "slug": "tombik-panda",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132107/ei/63tyacLhIIK-i9oP_PW9wQY/ip/62.210.208.90/id/2j0qiD9STWs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oiGuADVFoDGlOidoQnMaNjkkWjUhwjA2LumoubSmYtufEk_DrgxiCn6wLJZrT2CeRGNKH5-Pf_/spc/q5xjPAh5yfnQg04_8zP_5Jhdh0hqX3A4dt7Ry4kPv3xJ1WXoSWzc7Taa3bYwUavT9tmrjg/vprv/1/go/1/ns/aWoVCMVw6aJ2j0B52FU22gAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/yA0w-Vrl7crFLyEOl/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAPwHTfTK24nebNYKGVXo5mBSgfNd9s3WEf7I8KByyJb-AiBrHeo4Ye7BsOdMJMxoyhA39EyPz8WGfZJXiLrG1DBMZg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Transformers",
+    "slug": "transformers",
+    "logo": "",
+    "group": "cocuk",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769130031/ei/z3NyaarXLui_kucPlZDcoQw/ip/104.23.211.19/id/1xZAbVY0Dv0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_o6Pw39Tam3xNL08WGhYETCMK9evKoW-Jd3dM4opjMgsZt5Zs8Dl5sPgwFZ7h5YoyR9wdL7OuLa/spc/q5xjPB1wOrmwhcv8QgofnTv-PEvYIpuPLuncPeO8FOBNZtLMWXrXQwVin9m0vl6i8Yi1cg/vprv/1/go/1/ns/67EQwcExnTglRtrX2Rjfr74S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/txJ0exdpIlnu8XH3Q/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgYNM0ulNrM6IrW0l2lg2ShL501fkMlqBQXnZhgzoxEVkCIQDgK2Z25nQV8ogQGtx1oNdYSdl1dsEuT4yM5Z6MHfPOcg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "TRT Haber",
+    "slug": "trthaber",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132115/ei/83tyaYOFIbaEmLAPuMXUsAY/ip/62.210.208.90/id/EvlMtGiuNE4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666463/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/maudio/1/bui/AW-iu_rAy1P97FxpBL59QdeP_pRo0A88GtyISvJLAkxyGHk14Lae-Jlnw69F3ibULM03SInkqensx-I3/spc/q5xjPPl2S7YmApv18KQKD3He7zKs75bJtz8vp5dt8BkHw5IINkjQh4a9CYAltCp1TiNvuA/vprv/1/go/1/ns/TzeyqsrRSpqoJJ9_1Fsj63QS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/KkZJe3NRPF4VBlEtG/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgeNUV-B6wmHmndN4x2glbZegEEM96Kk4pfpfVV-l-SJECIQCKUpFY-5lsb7riaAJ6-9mTLcYCDn7tvn8KejiTHNgnGg%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "TV 100",
+    "slug": "tv100",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132126/ei/_ntyaZKGH46ZhcIPs8yfuA8/ip/62.210.208.90/id/RAXeL9IUhOc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666466/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rf4x8Bc2vpOEp_MjKc5p2juiCCXnOpEd6q4jhsQCYbBxUS-4EG9xTV-xvwFNcxjeNCvh9jx4As/spc/q5xjPOTkrxk2s0Jn6PDsvPf9i31qRU-FC77vm6X1OmczTk7ayEUwKh6wemK2FFoHk7D4wQ/vprv/1/go/1/ns/RNV36LqBPAiGWVYZBFEqJhES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/cfEPuPi0yDWts845f/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgTQbG7CqA5eDWwLmZuDxYQFw6bmpEJhU4QgtRa__etY0CIAvOlTRJujBXiAQlirD0xbk0lpHzh3VGOA7pnVn4fXP_/file/index.m3u8"
+  },
+  {
+    "name": "TVNET",
+    "slug": "tvnet",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132130/ei/Anxyaf_RBMfWp-oPuZnjaQ/ip/62.210.208.90/id/0GVtv6xQGZE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_p08cSZKm9-0Ty6DPbRhynktAGabSPZu4MofuAVQ-QAffW_ygEI--8nUXteaH8l0OeO72M6d2Jy/spc/q5xjPExv56UTj92fM7tJrn5PGDH20QtINexvvf1aNdCPlNmVHvNaML_2Qsiu0e95dGwHqg/vprv/1/go/1/ns/LsNjj1BqW8JLqX_I-pxqDx4S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/fM2JF5W4_NB6FAlJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAMzHDp2hPOn3vH4Hq0YwU30d4I3FCzXOWE6CEfTlwdRKAiEAhVpDVAoCq1p6b0kjYTu8BmZcCN7fPxS9wFBF_UqD0Hk%3D/file/index.m3u8"
+  },
+  {
+    "name": "Ulusal Kanal",
+    "slug": "ulusal-kanal",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132134/ei/BnxyafKNDq3Dv_IP84PNkA8/ip/62.210.208.90/id/qbDlI_wDkAI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_pn9wVWJr4DcqlEIW1SPeEtURrSg9Zcc1FcysMnt2r5S6b8wGARBeww4TivMq0iREz7GP7wdPw7/spc/q5xjPEf9h_C__OZia6qZfH3YTwFFlhc_de9_Zj4sLBo0hJ4ML0uCGX7JqtEgDhN7L0ZjcQ/vprv/1/go/1/ns/8uXNdTqRb-0b9EnLHYjGKn8S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/fBtjuX1ag17ikN0Jd/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAPTa5AJc_gFkvdnWqMbeupLXjhOIML9JokXSfvoCSWMrAiEAnj4zg5MZpkkfzUY0qoB4DB66GsCPINHBI-hzKVKz5pk%3D/file/index.m3u8"
+  },
+  {
+    "name": "Ülke TV",
+    "slug": "ulke-tv",
+    "logo": "",
+    "group": "haber",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132137/ei/CXxyaf_PMt2z8uMPt4WxgQw/ip/62.210.208.90/id/yIbNbhHaWXU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qP4vdER9j_a_055hbaPu_y3WBJdhBW2bYtNPh0YTtBwKMaVYOWxII2xSP4m6L9ikyqJYxMl1S3/spc/q5xjPLrDaE-s2wnPAqScLSE5JIn_w18iQbHL81JGGl7dByoKIPbI2M1mWIjr3U87_MKJ3A/vprv/1/go/1/ns/ZYRAGfpVLTk0lX0cMhVFBswS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/6sRtOFkheZMRhTA0h/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAMvjQ7EyI4ZzEp0I3xKW9Ip7Q_7wo5Pfn2UAa-iMMfJDAiBO3mMe4Z98t51xu4byjgsC3Qa65OPqn2JTVhHY7tLuag%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Vav TV",
+    "slug": "vav-tv",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132141/ei/DXxyaeWDJ8f_xN8PycOiyQ4/ip/62.210.208.90/id/guiHVhRhLBQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_pg6kpzFOPpN4utq_ehsilKtL6gpNUFjBMTDLFolzRPyVho4Mq6GYgldOdGp19ssa_8Y2_DpAv6/spc/q5xjPDQYv1xi7I98H7WeR6EvKVW5AHNn7UcxgpMeQW_JCgpCCftxXzuWTxc_PZRvDeIU2A/vprv/1/go/1/ns/r94aL9nXNNfkCwArCRDcUYES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/MLbiew2AJhFjGaQLN/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgd8eFO4xFzDbMk-cMo-b024w1N_lClgRv1OsSrPCYSAMCIGSyPEJq4fFeCqW_W5qnn9sKjkrgyr719fBk31kk9R3F/file/index.m3u8"
+  },
+  {
+    "name": "Yalan Dünya",
+    "slug": "yalan-dunya",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132145/ei/EXxyafj0JIDPp-oPrIC76Q4/ip/62.210.208.90/id/EkI4P-gPeRc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rd0u2eLtl_Gbul3L0F8e119F0mfv6fJOuhDZPbSLlp2GSjNoCL_qr8X9c-2suazMS3CC7-CT9X/spc/q5xjPHxA7v68Evrc_VvZ_UtdsTSvg6V-_WpN1CsT346fF4vGtSOKkDwtEi-x4RyIwcIT9A/vprv/1/go/1/ns/XpVtk7qUc_9eohVquKST_QMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/fxNaulTivceu1XaOR/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAK-Vb60OW06yTszesO4HKsZxDnCzTRhravEBpxPnXNIwAiBv3NExmYSMO98BXXE75IxarqarxzqKD6AHXc9NJ75b4Q%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Yaprak Dökümü",
+    "slug": "yaprak-dokumu",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132149/ei/FXxyafP3DrLAmLAP6vGvkQs/ip/62.210.208.90/id/crwxJBQKWj4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_pu6Qc9yidwe50pYl5GtL2Q2yQHEorQahFrtXqJWlvfU9TttjuO3H32FLw3VnsoRtDDNqokg1XV/spc/q5xjPO6U26mnVSvpdeHIPhlAY9xFU1PiKAcj0iXnRmFkfKFszUl8kmSg7i8qcu3G11toBg/vprv/1/go/1/ns/L7EKkvObulMsjxN7YXBbrioS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/bWfRurkGJBiA012Qj/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgdtFQ5aLGIPAdQPX0XHXlnidxfEW8sP6TMcZlJSxF0DQCIFeK91szYQ1ivTsekGNhYKgpdyLbJQbq04DZ0OWwCG6V/file/index.m3u8"
+  },
+  {
+    "name": "Yedi Numara",
+    "slug": "yedi-numara",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132152/ei/GHxyabTJNNXOp-oP2PSTmQ4/ip/62.210.208.90/id/rS5dHYQsSxs.28/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qPu3_ZBsjJP96N4IZqR1qHfauGCMQmTJi9L5BUq7dJiBKWZQUgnlIHuhOJEoNo5fWAAhY4nd3c/spc/q5xjPDgesdxyPfP2iREhRBBg2yoHZOzekg9fjYWoANIQ3fkyDkfER0vv277WvBrpReF-rA/vprv/1/go/1/ns/uE_R-TF0OnA6IZ956lbEt-kS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/KkwQ-WwuMCeNi1p33/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgEWMMnDuHuaHljtDgogiagvpyGnp1AZFRiL27c4O2IcoCIQCXFgm_TuDeIb1ipamCdlUhXt8i17_ndel8iDQi0xEb8w%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Yeşil Deniz",
+    "slug": "yesil-deniz",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132156/ei/HHxyabDgMqy9mLAP7dm7sAo/ip/62.210.208.90/id/OpbZ8q_hWLU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_p4BGuuRpyWZF5H8d8fq7VXCrYBEUJD0c6mroaPBF1laz4STdc1BOwYaqc-DxFFJD3RCERE0MVx/spc/q5xjPFcmwPNgbMY7vcqpgteM49zOXH9k9ZRyeBfS3PNQFGZILODMWW1f07beWTlbJypyKg/vprv/1/go/1/ns/atmbna9pYMXQKGbT9cJHNIUS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/Ut2FOUr0wnYwZsJ4O/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgZoNOwPQ6DClywZBAp_FU0l_FmxFIh_XwskoXeuufpN4CIQDBnLHMdLtwyfic_u7DU9RDd4KpJ-icQ8xnQgv3nMo5rw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Zengin Kız Fakir Oğlan",
+    "slug": "zkfo",
+    "logo": "",
+    "group": "dizi",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132161/ei/IHxyaarlPIup8uMP96qReQ/ip/62.210.208.90/id/3kTcvGWaO3Q.40/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_ojaFFM5__vlWZ45oOL2kOEBEPpwzsxrqKtqjlKM3XF2wAk_RtPWxfg0I69qTKFyz9peyv3KFfQ/spc/q5xjPMZSYve5Mw5qKe_8C72ABcm8jc17xOhHNUq-UJtTkkHaY0tRHDlEmoDjKUp8ODkj8g/vprv/1/go/1/ns/aS3pfAGvAfrAgq608d-mgPUS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/Nkd3-TOueBdHHQCXB/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAM8C0ATPclhOKtNGPGvazlHRLlfCAyc3OnTZwkTldYooAiB-xZMjjEPnSY4M9EwF0QZnCbhoSyuhD6qYiJ3fgtnGfw%3D%3D/file/index.m3u8"
+  },
+  {
+    "name": "Fatih Çıtlak",
+    "slug": "fatih-citlak",
+    "logo": "",
+    "group": "dini",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132164/ei/JHxyaev3OvGMvdIP-fHgwAM/ip/62.210.208.90/id/xl3UW35tyT8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oC_yluMjS6HCczH-hazODFUTFFWduv_tvTEfIDls8DZgZ2hdUQkIrXgGyw7H5xWJvZIagSmzZi/spc/q5xjPKsBYgxTYCG61MQuN8RK9M2UoWsoubHha_0iUTlixbFepO9NBhmFBU3WRsy-l9rlGQ/vprv/1/go/1/ns/wWL8kZgtVcdxnk30JtcMLwsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/XuXlOQXNqHl_X52GA/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgaTsfTmxfmWpmd83TGeE6GsZ8PS8LpxynBWt1MRMG2-8CICUYBx0ZWEOMYpl8kc6YlZwmW1cck0-3TtfJOlg7jDb5/file/index.m3u8"
+  },
+  {
+    "name": "Berkan Ural Music",
+    "slug": "berkan-ural",
+    "logo": "",
+    "group": "muzik",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132168/ei/KHxyacmCM4vfvdIPgsu4wQI/ip/62.210.208.90/id/xwrt3ncxTgo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rXaICK8w-lP_lsAeP-lgeiXhTjImz-1x81X4Nmz4EEVSihgHM_YG2dNcef7p5PI2dVYZukr6q-/spc/q5xjPMBY88f1d8A--CIIyn8d1izbiQixjxxdvmOh3YgjZwsjPIBvrdiq-nkR9IBqjavdjA/vprv/1/go/1/ns/J83TtO0VdXi1EcDd48iLlGkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/gmNH-8bMC8h9SeP_g/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgZPLWlfaLZgYZCIiDCJKvEY-5ZxzUAFSPVG1xfM6cIy8CIGYaANBBe7DBenY7NlwwjJjdgOebVJOX8FsoW5EZhb0P/file/index.m3u8"
+  },
+  {
+    "name": "Serkan Uca",
+    "slug": "serkan-uca",
+    "logo": "",
+    "group": "muzik",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132173/ei/LXxyaZ6AHf3Qp-oPsZS2gAM/ip/62.210.208.90/id/JRQGif7Y7Kg.825/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_plgCiuTQIYxFigHw92SWMq8ffcjlIok4QAAC_VY4cBGjsI7q0m4oCDWNUlxU2hXPERLzo1ru6I/spc/q5xjPHSD6Eww-pV_Xf-I5QSlstx8zMKypSOZ5TtVERwct439ohh_4G5bPsR2aXVZCaHUHQ/vprv/1/go/1/ns/drOmWU4-Yy125wy6XBJADpsS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/n/j0RJujja4CbFQd9ic/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgYVFlM6SAD6ytnm0fD176e524Kcc72Bln8Gk0z31B6QUCIHuRe2xSvcp-zotOETuFOX4SYcablrC4cqc8AdW8_5fO/file/index.m3u8"
+  },
+  {
+    "name": "Korku Hikayeleri",
+    "slug": "korku-hikayeleri",
+    "logo": "",
+    "group": "diger",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769132177/ei/MXxyadi0Hru4mLAPtM_LiQk/ip/62.210.208.90/id/UQopF2JDQsw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691028/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_rT6Y6n9hJD3cCny4nYZTrkNfBdsbc7Hqiw2HrcpR-aYASpWTGoU8H8wkmiJeSTZELoUBeNOL-I/spc/q5xjPNtbsx4zqdr3oEkiRczltZS-RVbo1OxeJB3o-3cT2aTIMmcKy4X1DSIipCg3ccw18w/vprv/1/go/1/ns/p0qMb8OX0aG_L9oyemunRfMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968%2C51626155/dover/11/n/1exPOu5QSJ5mHVORS/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgXL1UbXm-_Xg-dz4mTiAu4YOd9VsZZjq4fBA09bUf2ekCIQDRDQUCx5g--Ge2mI1aJEuvmXJ9RKTd7o1e7URRtzFZSw%3D%3D/file/index.m3u8"
+  }
+]
