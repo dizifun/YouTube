@@ -6,7 +6,7 @@ from datetime import datetime
 
 # --- AYARLAR ---
 GIRIS_DOSYASI = "idler.json"
-CIKIS_DOSYASI = "playlist.m3u"
+CIKIS_DOSYASI = "Youtube.m3u"
 BEKLEME_SURESI = 2
 
 def master_linki_bul(channel_id):
