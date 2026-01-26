@@ -6,7 +6,7 @@ from io import BytesIO
 def get_canli_tv_m3u():
     """"""
     
-    # Token'ı URL'den çekme işlemi
+    # 1. ADIM: Token'ı GitHub'dan dinamik olarak çek
     try:
         token_url = "https://raw.githubusercontent.com/koprulu555/kbl-token-store/main/token.txt"
         token_response = requests.get(token_url, timeout=10)
@@ -15,7 +15,8 @@ def get_canli_tv_m3u():
         print("✅ Token başarıyla güncellendi.")
     except Exception as e:
         print(f"❌ Token çekilemedi: {e}")
-        dynamic_token = "" # Hata durumunda boş bırakır veya eski tokenı buraya yedek olarak koyabilirsin
+        # Token çekilemezse işlem muhtemelen başarısız olacaktır ama yine de boş dize ile devam ediyoruz.
+        dynamic_token = "" 
 
     url = "https://core-api.kablowebtv.com/api/channels"
     headers = {
@@ -25,7 +26,7 @@ def get_canli_tv_m3u():
         "Cache-Control": "max-age=0",
         "Connection": "keep-alive",
         "Accept-Encoding": "gzip",
-        "Authorization": f"Bearer {dynamic_token}"  # Dinamik token buraya eklendi
+        "Authorization": f"Bearer {dynamic_token}"  # Dinamik token
     }
 
     params = {
@@ -86,45 +87,9 @@ def get_canli_tv_m3u():
         return True
 
     except Exception as e:
-        print(f"❌ Hata: {e}")
-        print("🔄 Yedek kaynaktan m3u indiriliyor...")
-
-        try:
-            # İlk yedek kaynak
-            response = requests.get("https://mth.tc/boncuktv", timeout=10)
-            response.raise_for_status()
-
-            # İlk satırı atla
-            lines = response.text.split('\n')
-            content = '\n'.join(lines[1:]) if lines else response.text
-
-            with open("yeni.m3u", "w", encoding="utf-8") as f:
-                f.write(content)
-            print("✅ Yedek kaynaktan m3u başarıyla indirildi (boncuktv)")
-            return True
-
-        except Exception as e2:
-            print(f"❌ İlk yedek kaynak (boncuk tv) hatası: {e2}")
-            print("🔄 İkinci yedek kaynaktan m3u indiriliyor...")
-
-            try:
-                # İkinci yedek kaynak
-                response = requests.get("https://goldvod.org/get.php?username=hpgdisco&password=123456&type=m3u_plus", timeout=10)
-                response.raise_for_status()
-
-                # İlk satırı atla
-                lines = response.text.split('\n')
-                content = '\n'.join(lines[1:]) if lines else response.text
-
-                with open("yeni.m3u", "w", encoding="utf-8") as f:
-                    f.write(content)
-                print("✅ İkinci yedek kaynaktan m3u başarıyla indirildi (goldvod)")
-                return True
-
-            except Exception as e3:
-                print(f"❌ İkinci yedek kaynak (goldvod) hatası: {e3}")
-                print("❌ Tüm kaynaklar başarısız oldu")
-                return False
+        print(f"❌ Ana kaynak hatası: {e}")
+        print("❌ Yedek kaynaklar devre dışı bırakıldığı için işlem sonlandırıldı.")
+        return False
 
 if __name__ == "__main__":
     get_canli_tv_m3u()
