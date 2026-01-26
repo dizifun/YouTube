@@ -4,9 +4,33 @@ import gzip
 from io import BytesIO
 
 def get_canli_tv_m3u():
-    """"""
+    """
+    KabloWebTV API'sinden kanal listesini çeker ve M3U dosyası oluşturur.
+    Token GitHub'daki text dosyasından dinamik olarak alınır.
+    """
+    
+    # --- 1. ADIM: Token'ı GitHub'dan Çek ve Temizle ---
+    try:
+        # Cache (önbellek) sorununu önlemek için rastgele sayı eklenebilir ama şimdilik düz çekiyoruz
+        token_url = "https://raw.githubusercontent.com/koprulu555/kbl-token-store/main/token.txt"
+        
+        print(f"🔑 Token adresten çekiliyor: {token_url}")
+        token_response = requests.get(token_url, timeout=15)
+        token_response.raise_for_status()
+        
+        # .strip() ÇOK ÖNEMLİ: Satır sonundaki görünmez \n karakterini siler.
+        dynamic_token = token_response.text.strip()
+        
+        # Token kontrolü (Hata ayıklama için ilk 10 karakteri yazdırır)
+        print(f"✅ Token alındı (İlk 10 hane): {dynamic_token[:10]}...")
+        
+    except Exception as e:
+        print(f"❌ Token çekme hatası: {e}")
+        return False
 
+    # --- 2. ADIM: API İsteği ---
     url = "https://core-api.kablowebtv.com/api/channels"
+    
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
         "Referer": "https://tvheryerde.com",
@@ -14,7 +38,7 @@ def get_canli_tv_m3u():
         "Cache-Control": "max-age=0",
         "Connection": "keep-alive",
         "Accept-Encoding": "gzip",
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJjZ2QiOiIwOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUiLCJkaSI6IjBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCIsImFwdiI6IjEuMC4wIiwiZW52IjoiTElWRSIsImFibiI6IjEwMDAiLCJzcGdkIjoiYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjIiwiaWNoIjoiMCIsInNnZCI6ImViODc3NDRjLTk4NDItNDUwNy05YjBhLTQ0N2RmYjg2NjJhZCIsImlkbSI6IjAiLCJkY3QiOiIzRUY3NSIsImlhIjoiOjpmZmZmOjEwLjAuMC41IiwiY3NoIjoiVFJLU1QiLCJpcGIiOiIwIn0.bT8PK2SvGy2CdmbcCnwlr8RatdDiBe_08k7YlnuQqJE"  # Güvenlik için token'ı burada göstermedim
+        "Authorization": f"Bearer {dynamic_token}"  # Temizlenmiş token buraya ekleniyor
     }
 
     params = {
@@ -22,11 +46,19 @@ def get_canli_tv_m3u():
     }
 
     try:
-        print("📡 CanliTV API'den veri alınıyor...")
+        print("📡 CanliTV API'ye bağlanılıyor...")
 
         response = requests.get(url, headers=headers, params=params, timeout=30)
+        
+        # Eğer token hatalıysa burada 401 Unauthorized hatası verir
+        if response.status_code == 401:
+            print("❌ HATA: 401 Unauthorized - Token geçersiz veya süresi dolmuş!")
+            print(f"Kullanılan Token: {dynamic_token}")
+            return False
+            
         response.raise_for_status()
 
+        # Gzip sıkıştırmasını çöz
         try:
             with gzip.GzipFile(fileobj=BytesIO(response.content)) as gz:
                 content = gz.read().decode('utf-8')
@@ -35,15 +67,17 @@ def get_canli_tv_m3u():
 
         data = json.loads(content)
 
+        # Veri kontrolü
         if not data.get('IsSucceeded') or not data.get('Data', {}).get('AllChannels'):
-            print("❌ CanliTV API'den geçerli veri alınamadı!")
+            print("❌ API yanıt verdi ama kanal verisi bulunamadı!")
             return False
 
         channels = data['Data']['AllChannels']
-        print(f"✅ {len(channels)} kanal bulundu")
+        print(f"✅ Başarılı! {len(channels)} kanal bulundu.")
 
+        # --- 3. ADIM: M3U Dosyasını Yaz ---
         with open("yeni.m3u", "w", encoding="utf-8") as f:
-            f.write("\n")
+            f.write("#EXTM3U\n") # Standart başlık eklendi
 
             kanal_sayisi = 0
             kanal_index = 1  
@@ -65,55 +99,19 @@ def get_canli_tv_m3u():
 
                 tvg_id = str(kanal_index)
 
+                # M3U formatı
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{group}",{name}\n')
                 f.write(f'{hls_url}\n')
 
                 kanal_sayisi += 1
                 kanal_index += 1  
 
-        print(f"📺 yeni.m3u dosyası oluşturuldu! ({kanal_sayisi} kanal)")
+        print(f"📺 yeni.m3u dosyası başarıyla oluşturuldu! ({kanal_sayisi} kanal)")
         return True
 
     except Exception as e:
-        print(f"❌ Hata: {e}")
-        print("🔄 Yedek kaynaktan m3u indiriliyor...")
-
-        try:
-            # İlk yedek kaynak
-            response = requests.get("https://mth.tc/boncuktv", timeout=10)
-            response.raise_for_status()
-
-            # İlk satırı atla
-            lines = response.text.split('\n')
-            content = '\n'.join(lines[1:]) if lines else response.text
-
-            with open("yeni.m3u", "w", encoding="utf-8") as f:
-                f.write(content)
-            print("✅ Yedek kaynaktan m3u başarıyla indirildi (boncuktv)")
-            return True
-
-        except Exception as e2:
-            print(f"❌ İlk yedek kaynak (boncuk tv) hatası: {e2}")
-            print("🔄 İkinci yedek kaynaktan m3u indiriliyor...")
-
-            try:
-                # İkinci yedek kaynak
-                response = requests.get("https://goldvod.org/get.php?username=hpgdisco&password=123456&type=m3u_plus", timeout=10)
-                response.raise_for_status()
-
-                # İlk satırı atla
-                lines = response.text.split('\n')
-                content = '\n'.join(lines[1:]) if lines else response.text
-
-                with open("yeni.m3u", "w", encoding="utf-8") as f:
-                    f.write(content)
-                print("✅ İkinci yedek kaynaktan m3u başarıyla indirildi (goldvod)")
-                return True
-
-            except Exception as e3:
-                print(f"❌ İkinci yedek kaynak (goldvod) hatası: {e3}")
-                print("❌ Tüm kaynaklar başarısız oldu")
-                return False
+        print(f"❌ Beklenmeyen bir hata oluştu: {e}")
+        return False
 
 if __name__ == "__main__":
     get_canli_tv_m3u()
