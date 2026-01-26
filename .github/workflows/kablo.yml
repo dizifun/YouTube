@@ -1,19 +1,19 @@
-name: Canli TV Guncelleyici
+name: Listeyi Guncelle
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # 3 Saatte bir
+    - cron: '0 */3 * * *' # 3 saatte bir
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  run-script:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Depoyu Cek
+      - name: Depoyu Çek
         uses: actions/checkout@v4
 
       - name: Python Kur
@@ -21,22 +21,17 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Request Kutuphanesini Kur
+      - name: Requests Kur
         run: pip install requests
 
-      - name: Scripti Calistir
-        # BURAYA DİKKAT: Python dosyanın adı neyse onu yaz!
-        run: python gbl.py 
+      - name: Scripti Başlat
+        run: python main.py 
+        # Python dosyanın adı main.py olsun!
 
-      - name: Commit ve Push Islemi
+      - name: GitHub'a Yükle
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          
-          if [ -f yeni.m3u ]; then
-            git add yeni.m3u
-            git commit -m "Liste guncellendi" || exit 0
-            git push
-          else
-            echo "Dosya olusmadi, yukleme yapilamadi."
-          fi
+          git config --global user.name "Bot"
+          git config --global user.email "bot@github.com"
+          git add yeni.m3u
+          git commit -m "Guncelleme: $(date)" || echo "Degisiklik yok"
+          git push
