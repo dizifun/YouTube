@@ -1,0 +1,38 @@
+name: Update OK.RU M3U Playlist
+
+on:
+  schedule:
+    # Her 6 saatte bir otomatik çalışır (dakika 0, her 6 saat)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Bu ayar, GitHub Actions sekmesinden "Run workflow" butonu ile manuel tetikleyebilmeni sağlar.
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Depoyu Klonla (Checkout)
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Gerekli Kütüphaneleri Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp beautifulsoup4 lxml
+
+      - name: 🚀 Linkleri Çek ve M3U Oluştur
+        run: python generate_m3u.py
+
+      - name: 💾 Değişiklikleri GitHub'a Kaydet (Commit & Push)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add playlist.m3u
+          # Eğer linkler değişmemişse hata vermemesi için || true kullanıyoruz
+          git commit -m "Otomatik Güncelleme: playlist.m3u" || true
+          git push
