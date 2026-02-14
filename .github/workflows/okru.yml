@@ -2,14 +2,18 @@ name: Update OK.RU M3U Playlist
 
 on:
   schedule:
-    # Her 6 saatte bir otomatik çalışır (dakika 0, her 6 saat)
+    # Her 6 saatte bir otomatik çalışır
     - cron: '0 */6 * * *'
   workflow_dispatch:
-    # Bu ayar, GitHub Actions sekmesinden "Run workflow" butonu ile manuel tetikleyebilmeni sağlar.
+    # GitHub Actions sekmesinden manuel tetiklemek için
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+    
+    # GİTHUB BOTUNA DOSYA YAZMA İZNİ VEREN KISIM BURASI:
+    permissions:
+      contents: write
 
     steps:
       - name: 📥 Depoyu Klonla (Checkout)
